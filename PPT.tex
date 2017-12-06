@@ -1,18 +1,21 @@
 \documentclass{beamer}
 \usepackage{hyperref}
+\usepackage{fancyhdr}
+
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
     filecolor=magenta,      
     urlcolor=cyan,
 }
+
 \begin{document}   
 
 
 \section{CO451 DOS}
 \begin{frame}
 \begin{center}
-\huge CO541 Distributed Operating System\\
+\huge CO451 Distributed Operating System\\
 \end{center}
 TH: 03 hrs
 \hspace{5cm}
@@ -20,7 +23,7 @@ PR: 2 hrs\\
 Max Marks: 100 TH + 50 PR
 \hspace{2cm}
 Credits 03+01\\
-\noindent\rule{10cm}{0.4pt}\\
+\noindent\rule{10.5cm}{0.4pt}\\
 \begin{center}
 ISA Tool (Marks : 10)\\
 \end{center}
@@ -28,6 +31,7 @@ ISA Tool (Marks : 10)\\
 \hspace{2cm}2. Class Notebook\\
 \hspace{2cm}3. Surprise Test\\
 \hspace{2cm}4. MiniProject/Case Study\\
+\vspace{2cm}
 \end{frame} 
 
 
@@ -35,7 +39,7 @@ ISA Tool (Marks : 10)\\
 \section{Fundamentals}
 \subsection{What id DCS?}
     \begin{frame}
-        \frametitle{What is Distributed Operating System?}
+        \frametitle{What is Distributed Computing System?}
             Computer Architectures consisting of interconnected, multiple processors are of basically two types
         \vspace{0.02cm}
         \begin{itemize}
@@ -93,7 +97,7 @@ ISA Tool (Marks : 10)\\
     \begin{figure}
         \centering
         \includegraphics[width=10cm]{miniComputerModel}
-        \caption{A Distributed Computing System based on the Minicomputer Model}\label{minicomputermodel}
+        \caption{A DCS based on the Minicomputer Model}\label{minicomputermodel}
         \end{figure}
         \vspace{3cm}
 \end{frame}
@@ -105,8 +109,8 @@ ISA Tool (Marks : 10)\\
     \frametitle{Workstation Model}
 \begin{figure}
   \centering
-  \includegraphics[width=10cm]{workStationModel}
-  \caption{A Distributed Computing System based on the Workstation Model}\label{workstationmodel}
+  \includegraphics[width=7cm]{workStationModel}
+  \caption{A DCS based on the Workstation Model}\label{workstationmodel}
 \end{figure}
 
     Issues:
@@ -115,7 +119,6 @@ ISA Tool (Marks : 10)\\
       \item {How is a process transferred from one workstation to another to get it executed?}
       \item {What happens to a remote process if a user logs onto a workstation that was idle until now and being used to execute a process of another workstation?}
     \end{itemize}
-    \vspace{5cm}
 \end{frame}
 
 
@@ -126,7 +129,7 @@ ISA Tool (Marks : 10)\\
     \begin{figure}
        \centering
        \includegraphics[width=10cm]{workStationServerModel}
-       \caption{A Distributed Computing System based on the Workstation-Server Model}\label{workstationservermocel}
+       \caption{A DCS based on the Workstation-Server Model}\label{workstationservermocel}
     \end{figure}
     \begin{itemize}
       \item {Much Cheaper}
@@ -145,8 +148,8 @@ ISA Tool (Marks : 10)\\
     \frametitle{Processor-Pool Model}
     \begin{figure}[h!]
       \centering
-      \includegraphics[width=10cm]{processorPoolModel}
-      \caption{A Distributed Computing System based on the Processor-Pool Model}\label{processorpoolmodel}
+      \includegraphics[width=7cm]{processorPoolModel}
+      \caption{A DCS based on the Processor-Pool Model}\label{processorpoolmodel}
     \end{figure}
 \end{frame}
 \subsection{Hybrid Model}
@@ -185,6 +188,7 @@ ISA Tool (Marks : 10)\\
           \item To present users with a virtual machine that is easier to program than the underlying hardware.
           \item To manage the various resources of the system.
         \end{itemize}
+        \vspace{1cm}
       \item Features:
       \begin{enumerate}
         \item System Image
@@ -248,6 +252,25 @@ ISA Tool (Marks : 10)\\
       	\begin{itemize}
       		\item Monolithic Kernel Model
       		\item Microkernel Model
+      	\end{itemize}
+      	\framebreak
+      	\begin{itemize}
+      		\item Monolithic Kernel
+      			\begin{figure}[h!]
+      				\centering
+      				\includegraphics[width=10cm]{monoLithicKernelModel.jpg}
+      				\caption{Monolithic Kernel Model}\label{monoLothicKernelModel}
+      			\end{figure}
+      			\vspace{1.5cm}
+      			
+      		\framebreak
+      		\item Micro Kernel Model
+      			\begin{figure}[h!]
+      				\centering
+      				\includegraphics[width=10cm]{microKernelModel.jpg}
+      				\caption{Monolithic Kernel Model}\label{microKernelModel}
+      			\end{figure}
+      			\vspace{1.5cm}
       	\end{itemize}
       	\vspace{6cm}
       	\framebreak
