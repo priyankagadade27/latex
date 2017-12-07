@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  6 DEC 2017 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  7 DEC 2017 12:15
 entering extended mode
 **./PPT.tex
 (PPT.tex
@@ -883,17 +883,17 @@ Dictionary: translator-theorem-dictionary, Language: English
 (PPT.nav) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 53.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+LaTeX Font Info:    Try loading font information for U+msb on input line 53.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 50.
+line 53.
 
 (C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\ot1mathkern
 cmss.fd
@@ -905,17 +905,17 @@ thkerncmss.
 <tightlyCoupledSystem.jpg, id=125, 526.96875pt x 108.405pt>
 File: tightlyCoupledSystem.jpg Graphic file (type jpg)
 <use tightlyCoupledSystem.jpg>
-Package pdftex.def Info: tightlyCoupledSystem.jpg  used on input line 66. on in
-put line 66.
+Package pdftex.def Info: tightlyCoupledSystem.jpg  used on input line 69. on in
+put line 69.
 Package pdftex.def Info: Requested size: 284.52756pt x 58.5345pt on input line 
-66.
+69.
 <looselyCoupledSystem.jpg, id=126, 495.35063pt x 147.55125pt>
 File: looselyCoupledSystem.jpg Graphic file (type jpg)
 <use looselyCoupledSystem.jpg>
-Package pdftex.def Info: looselyCoupledSystem.jpg  used on input line 66. on in
-put line 66.
+Package pdftex.def Info: looselyCoupledSystem.jpg  used on input line 69. on in
+put line 69.
 Package pdftex.def Info: Requested size: 284.52756pt x 84.7535pt on input line 
-66.
+69.
  [3
 
  <./tightlyCoupledSystem.jpg> <./looselyCoupledSystem.jpg>]
@@ -927,12 +927,12 @@ Package pdftex.def Info: Requested size: 284.52756pt x 84.7535pt on input line
 <miniComputerModel.jpg, id=205, 458.46281pt x 332.74312pt>
 File: miniComputerModel.jpg Graphic file (type jpg)
 <use miniComputerModel.jpg>
-Package pdftex.def Info: miniComputerModel.jpg  used on input line 103. on inpu
-t line 103.
+Package pdftex.def Info: miniComputerModel.jpg  used on input line 106. on inpu
+t line 106.
 Package pdftex.def Info: Requested size: 284.52756pt x 206.51184pt on input lin
-e 103.
+e 106.
 
-Overfull \vbox (88.14143pt too high) detected at line 103
+Overfull \vbox (88.14143pt too high) detected at line 106
  []
 
 [6
@@ -941,22 +941,22 @@ Overfull \vbox (88.14143pt too high) detected at line 103
 <workStationModel.jpg, id=232, 459.21562pt x 237.88875pt>
 File: workStationModel.jpg Graphic file (type jpg)
 <use workStationModel.jpg>
-Package pdftex.def Info: workStationModel.jpg  used on input line 122. on input
- line 122.
+Package pdftex.def Info: workStationModel.jpg  used on input line 125. on input
+ line 125.
 Package pdftex.def Info: Requested size: 199.16928pt x 103.17584pt on input lin
-e 122.
+e 125.
  [7
 
  <./workStationModel.jpg>]
 <workStationServerModel.jpg, id=260, 490.83376pt x 343.2825pt>
 File: workStationServerModel.jpg Graphic file (type jpg)
 <use workStationServerModel.jpg>
-Package pdftex.def Info: workStationServerModel.jpg  used on input line 142. on
- input line 142.
+Package pdftex.def Info: workStationServerModel.jpg  used on input line 145. on
+ input line 145.
 Package pdftex.def Info: Requested size: 284.52756pt x 198.99922pt on input lin
-e 142.
+e 145.
 
-Overfull \vbox (126.0525pt too high) detected at line 142
+Overfull \vbox (126.0525pt too high) detected at line 145
  []
 
 [8
@@ -965,10 +965,10 @@ Overfull \vbox (126.0525pt too high) detected at line 142
 <processorPoolModel.jpg, id=287, 403.5075pt x 398.23781pt>
 File: processorPoolModel.jpg Graphic file (type jpg)
 <use processorPoolModel.jpg>
-Package pdftex.def Info: processorPoolModel.jpg  used on input line 154. on inp
-ut line 154.
+Package pdftex.def Info: processorPoolModel.jpg  used on input line 157. on inp
+ut line 157.
 Package pdftex.def Info: Requested size: 199.16928pt x 196.56624pt on input lin
-e 154.
+e 157.
  [9
 
  <./processorPoolModel.jpg>] [10
@@ -984,24 +984,24 @@ e 154.
 <monoLithicKernelModel.jpg, id=416, 531.48563pt x 188.20313pt>
 File: monoLithicKernelModel.jpg Graphic file (type jpg)
 <use monoLithicKernelModel.jpg>
-Package pdftex.def Info: monoLithicKernelModel.jpg  used on input line 301. on 
-input line 301.
+Package pdftex.def Info: monoLithicKernelModel.jpg  used on input line 304. on 
+input line 304.
 Package pdftex.def Info: Requested size: 284.52756pt x 100.75516pt on input lin
-e 301.
+e 304.
 
-Overfull \hbox (21.0378pt too wide) in paragraph at lines 301--301
+Overfull \hbox (21.0378pt too wide) in paragraph at lines 304--304
  [] 
  []
 
 <microKernelModel.jpg, id=417, 524.71031pt x 234.8775pt>
 File: microKernelModel.jpg Graphic file (type jpg)
 <use microKernelModel.jpg>
-Package pdftex.def Info: microKernelModel.jpg  used on input line 301. on input
- line 301.
+Package pdftex.def Info: microKernelModel.jpg  used on input line 304. on input
+ line 304.
 Package pdftex.def Info: Requested size: 284.52756pt x 127.36597pt on input lin
-e 301.
+e 304.
 
-Overfull \hbox (21.0378pt too wide) in paragraph at lines 301--301
+Overfull \hbox (21.0378pt too wide) in paragraph at lines 304--304
  [] 
  []
 
@@ -1035,11 +1035,11 @@ Overfull \hbox (21.0378pt too wide) in paragraph at lines 301--301
 \tf@snm=\write8
 \openout8 = `PPT.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
  (PPT.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 302.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
 Package rerunfilecheck Info: File `PPT.out' has not changed.
 (rerunfilecheck)             Checksum: 3F3DBB925F6F03D511EA16510A7445CE;903.
  ) 
@@ -1056,7 +1056,7 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on PPT.pdf (20 pages, 471526 bytes).
+Output written on PPT.pdf (20 pages, 471709 bytes).
 PDF statistics:
  627 PDF objects out of 1000 (max. 8388607)
  64 named destinations out of 1000 (max. 500000)
