@@ -1,4 +1,5 @@
 \documentclass{beamer}
+\usepackage{ragged2e}  %package for justification
 \begin{document}
 \section{Message Passing}
 
@@ -54,14 +55,48 @@
 	\end{enumerate}
 \end{frame}
 
-\begin{frame}
+\begin{frame}[allowframebreaks]
 	\frametitle{Issues in IPC by Message Passing}
-	\justify{A message is a block of information formatted by a sending process in such a manner that it is meaningful to the receiving process.\\
+	\justifying{A message is a block of information formatted by a sending process in such a manner that it is meaningful to the receiving process.\\
 	In the designing of an IPC protocol for message-passing system, the following important issues need to be considered.}
 	\begin{figure}
 		\centering
 		\includegraphics[width=10cm]{messageStructure.jpg}
 		\caption{A Typical Message Structure}
-	\end{figure}	
+	\end{figure}
+	\framebreak
+	In designing of an IPC for MPS, the following important issues need to be considered:
+	\begin{enumerate}
+		\item Who is the sender?
+		\item who is the receiver?
+		\item Is there one receiver or many receivers?
+		\item Is the message guaranted to have been accepted by its receiver?
+		\item Does the sender need to wait for a reply?
+		\item What should be done is a catastrophic event such as a node crash of a communication link failure occurs during the course of communication?
+		\item What should be done if the receiver is not ready to accept the message:Will the message be discarded or stored in a buffer? In case of buffering,what shoul be done if athe buffer is full?
+		\item is there are several outstanding messages for a receiver, can it choose the order in which to service the outstanding messages?
+	\end{enumerate}	 
+\end{frame}
+
+
+\begin{frame}[allowframebreaks]
+	\frametitle{Synchronization}
+	A central issue in the communication structure is the synchronization. The semantics    
+	used synchronization may be broadly classified as
+	\begin{itemize}
+		\item Blocking
+		\item Non-Blocking
+	\end{itemize}
+	When both the send and receive primitives of a communication between two processes use 
+	blocking semantics, the communication is said to be synchronous; otherwise it is 
+	asynchronous.
+	\vspace{2cm}
+	\framebreak
+	\begin{figure}
+		\centering
+		\includegraphics[width=9cm]{synchronousMode.jpg}
+		\caption{Synchronous Mode of Communication with send and receive primitives having 
+		blocking type semantics.}
+	\end{figure}
 \end{frame}
 \end{document}
