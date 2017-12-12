@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  11 DEC 2017 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  12 DEC 2017 11:55
 entering extended mode
 **./Unit-II.tex
 (Unit-II.tex
@@ -891,14 +891,14 @@ LaTeX Info: Redefining \selectfont on input line 3.
  (Unit-II.nav) [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<sharedDataApproach.jpg, id=50, 493.0922pt x 68.50594pt>
+<sharedDataApproach.jpg, id=75, 493.0922pt x 68.50594pt>
 File: sharedDataApproach.jpg Graphic file (type jpg)
 <use sharedDataApproach.jpg>
 Package pdftex.def Info: sharedDataApproach.jpg  used on input line 31. on inpu
 t line 31.
 Package pdftex.def Info: Requested size: 284.52756pt x 39.53172pt on input line
  31.
-<messagePassingApproach.jpg, id=51, 286.06876pt x 59.47218pt>
+<messagePassingApproach.jpg, id=76, 286.06876pt x 59.47218pt>
 File: messagePassingApproach.jpg Graphic file (type jpg)
 <use messagePassingApproach.jpg>
 Package pdftex.def Info: messagePassingApproach.jpg  used on input line 31. on 
@@ -928,54 +928,61 @@ thkerncmss.
 ) [3
 
 ]
-<messageStructure.jpg, id=104, 533.74406pt x 207.02344pt>
+<messageStructure.jpg, id=128, 533.74406pt x 207.02344pt>
 File: messageStructure.jpg Graphic file (type jpg)
 <use messageStructure.jpg>
-Package pdftex.def Info: messageStructure.jpg  used on input line 79. on input 
-line 79.
+Package pdftex.def Info: messageStructure.jpg  used on input line 81. on input 
+line 81.
 Package pdftex.def Info: Requested size: 284.52756pt x 110.36314pt on input lin
-e 79.
+e 81.
  [4
 
  <./messageStructure.jpg>] [5
 
 
 ]
-<synchronousMode.jpg, id=155, 555.57562pt x 416.30531pt>
+<synchronousMode.jpg, id=179, 555.57562pt x 416.30531pt>
 File: synchronousMode.jpg Graphic file (type jpg)
 <use synchronousMode.jpg>
-Package pdftex.def Info: synchronousMode.jpg  used on input line 101. on input 
-line 101.
+Package pdftex.def Info: synchronousMode.jpg  used on input line 104. on input 
+line 104.
 Package pdftex.def Info: Requested size: 256.0748pt x 191.8839pt on input line 
-101.
+104.
  [6
 
 ] [7
 
 
  <./synchronousMode.jpg>]
-<buffering.jpg, id=208, 963.6pt x 542.025pt>
+<buffering.jpg, id=232, 963.6pt x 542.025pt>
 File: buffering.jpg Graphic file (type jpg)
 <use buffering.jpg>
-Package pdftex.def Info: buffering.jpg  used on input line 122. on input line 1
-22.
+Package pdftex.def Info: buffering.jpg  used on input line 127. on input line 1
+27.
 Package pdftex.def Info: Requested size: 426.79134pt x 240.06314pt on input lin
-e 122.
+e 127.
 
-Overfull \hbox (119.50146pt too wide) in paragraph at lines 122--122
+Overfull \hbox (119.50146pt too wide) in paragraph at lines 127--127
  [] 
  []
 
 [8
 
 ]
-Overfull \vbox (39.24277pt too high) detected at line 122
+Overfull \vbox (39.24277pt too high) detected at line 127
  []
 
 [9
 
 
  <./buffering.jpg>] [10
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `alignment tab' on input line 144.
+
+[11
 
 ]
 \tf@nav=\write6
@@ -987,19 +994,19 @@ Overfull \vbox (39.24277pt too high) detected at line 122
 \tf@snm=\write8
 \openout8 = `Unit-II.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (Unit-II.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `Unit-II.out' has not changed.
-(rerunfilecheck)             Checksum: 4F6E9274F6A34C59A091F13CFA0AA992;113.
+(rerunfilecheck)             Checksum: 29A85D4138767A64BB4930FD751894A2;494.
  ) 
 Here is how much of TeX's memory you used:
- 16938 strings out of 493312
- 325396 string characters out of 3138898
+ 16966 strings out of 493312
+ 325711 string characters out of 3138898
  390876 words of memory out of 3000000
- 20066 multiletter control sequences out of 15000+200000
+ 20086 multiletter control sequences out of 15000+200000
  11000 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,14n,55p,825b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1008,9 +1015,9 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Unit-II.pdf (10 pages, 301158 bytes).
+Output written on Unit-II.pdf (11 pages, 308430 bytes).
 PDF statistics:
- 306 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
