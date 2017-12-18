@@ -144,15 +144,57 @@
 \subsection{Encoding & Decoding}
 \begin{frame}
 	\frametitle{Encoding and Decoding of Message Data}
-	
+	\justifying{A message data should be meaningful to the receiving process. This implies that, 
+	ideally, the structure of the program object should be preserved while they are being 
+	transmitted from address space pf the sending process to the address space of the 
+	receiving process. This obviously is not possible in a heterogeneous systems in which 
+	the sending and receiving processes are on different computers of different 
+	architectures. However, even in homogeneous systems, it is very difficult to achieve 
+	this goal mainly because of two reasons:}
+	\begin{enumerate}
+		\item An absolute pointer value loses
+		\item Different program objects occupy varying amount of storage space.
+	\end{enumerate}
+	Due to above mentioned problem encoding and decoding is done.\\
+	One of the following two representations may be used for encoding and decoding of a message data.
+	\begin{enumerate}
+		\item In tagged representation
+		\item In Untagged representation
+	\end{enumerate}
 \end{frame}
 
 
+\subsection{Process Addressing}
+\begin{frame}
+	\frametitle{Process Addressing}
+	Another important issue in message based communication is addressing(or naming)of the 
+	parties involved in an interaction.\\MPS usually supports two types of process 
+	addressing.
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item Explicit Addressing
+		\item Implicit Addressing
+	\end{itemize}
+	\vspace{5cm}
+\end{frame}
 
 
+\subsection{Failure Handling}
+\begin{frame}[allowframebreaks]
+	\frametitle{ Failure Handling}
+	While distributed system may offer potential for parallelism, it is also prone to partial failure such as node crash or a communication link failure. Therefore, during interprocess communication, such failures may lead the following problems:
+	\begin{enumerate}
+		\item Loss of Request Message
+		\item Loss of Response Message
+		\item Unsuccessful Execution of the Request
+	\end{enumerate}
+	\framebreaks
+	
+\end{frame}
 
+\begin{frame}
 
-
+\end{frame}
 
 
 \end{document}
