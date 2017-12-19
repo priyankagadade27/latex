@@ -45,10 +45,35 @@
 \headcommand {\beamer@subsectionentry {0}{1}{9}{13}{Failure Handling}}
 \headcommand {\slideentry {1}{9}{1}{13/13}{Failure Handling}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {1}{9}{2}{14/14}{Failure Handling}{0}}
-\headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@partpages {1}{14}}
-\headcommand {\beamer@subsectionpages {13}{14}}
-\headcommand {\beamer@sectionpages {1}{14}}
-\headcommand {\beamer@documentpages {14}}
-\headcommand {\def \inserttotalframenumber {14}}
+\headcommand {\slideentry {1}{9}{1}{13/14}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {13}{14}}
+\headcommand {\slideentry {1}{9}{1}{13/15}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {13}{15}}
+\headcommand {\slideentry {1}{9}{1}{13/16}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {13}{16}}
+\headcommand {\slideentry {1}{9}{1}{13/17}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {13}{17}}
+\headcommand {\slideentry {1}{9}{1}{13/18}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {13}{18}}
+\headcommand {\slideentry {1}{9}{2}{19/19}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\slideentry {1}{9}{3}{20/20}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {1}{9}{4}{21/21}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{9}{1}{22}{Idem-potency}}
+\headcommand {\slideentry {1}{9}{5}{22/22}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {22}{22}}
+\headcommand {\slideentry {1}{9}{5}{22/23}{Failure Handling}{0}}
+\headcommand {\beamer@framepages {22}{23}}
+\headcommand {\beamer@subsectionpages {13}{23}}
+\headcommand {\beamer@subsectionentry {0}{1}{10}{24}{Group Communication}}
+\headcommand {\slideentry {1}{10}{1}{24/24}{Group Communication}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\slideentry {1}{10}{1}{24/25}{Group Communication}{0}}
+\headcommand {\beamer@framepages {24}{25}}
+\headcommand {\beamer@partpages {1}{25}}
+\headcommand {\beamer@subsectionpages {24}{25}}
+\headcommand {\beamer@sectionpages {1}{25}}
+\headcommand {\beamer@documentpages {25}}
+\headcommand {\def \inserttotalframenumber {25}}

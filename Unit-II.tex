@@ -77,28 +77,28 @@
 		\item What should be done is a catastrophic event such as a node crash of a communication link failure occurs during the course of communication?
 		\item What should be done if the receiver is not ready to accept the message:Will the message be discarded or stored in a buffer? In case of buffering,what shoul be done if athe buffer is full?
 		\item is there are several outstanding messages for a receiver, can it choose the order in which to service the outstanding messages?
-	\end{enumerate}	 
+	\end{enumerate}	
 \end{frame}
 
 
 \subsection{Synchronization}
 \begin{frame}[allowframebreaks]
 	\frametitle{Synchronization}
-	A central issue in the communication structure is the synchronization. The semantics    
+	A central issue in the communication structure is the synchronization. The semantics
 	used synchronization may be broadly classified as
 	\begin{itemize}
 		\item Blocking
 		\item Non-Blocking
 	\end{itemize}
-	When both the send and receive primitives of a communication between two processes use 
-	blocking semantics, the communication is said to be synchronous; otherwise it is 
+	When both the send and receive primitives of a communication between two processes use
+	blocking semantics, the communication is said to be synchronous; otherwise it is
 	asynchronous.
 	\vspace{2cm}
 	\framebreak
 	\begin{figure}
 		\centering
 		\includegraphics[width=9cm]{synchronousMode.jpg}
-		\caption{Synchronous Mode of Communication with send and receive primitives having 
+		\caption{Synchronous Mode of Communication with send and receive primitives having
 		blocking type semantics.}
 	\end{figure}
 \end{frame}
@@ -107,9 +107,9 @@
 \subsection{Buffering}
 \begin{frame}[allowframebreaks]
 	\frametitle{Buffering}
-	The synchronous and asunchronous mode of communication correspond respectively to the 
-	two extremes of buffering: a Null Buffer or No Buffering and a buffer with unbounded 
-	capacity. Other two commonly used buffering strategies are Single-buffering and finite 
+	The synchronous and asunchronous mode of communication correspond respectively to the
+	two extremes of buffering: a Null Buffer or No Buffering and a buffer with unbounded
+	capacity. Other two commonly used buffering strategies are Single-buffering and finite
 	bound or multiple message buffers. These four types of buffering strategies are;
 	\begin{itemize}
 		\item Null Buffer or No Buffering
@@ -144,12 +144,12 @@
 \subsection{Encoding & Decoding}
 \begin{frame}
 	\frametitle{Encoding and Decoding of Message Data}
-	\justifying{A message data should be meaningful to the receiving process. This implies that, 
-	ideally, the structure of the program object should be preserved while they are being 
-	transmitted from address space pf the sending process to the address space of the 
-	receiving process. This obviously is not possible in a heterogeneous systems in which 
-	the sending and receiving processes are on different computers of different 
-	architectures. However, even in homogeneous systems, it is very difficult to achieve 
+	\justifying{A message data should be meaningful to the receiving process. This implies that,
+	ideally, the structure of the program object should be preserved while they are being
+	transmitted from address space pf the sending process to the address space of the
+	receiving process. This obviously is not possible in a heterogeneous systems in which
+	the sending and receiving processes are on different computers of different
+	architectures. However, even in homogeneous systems, it is very difficult to achieve
 	this goal mainly because of two reasons:}
 	\begin{enumerate}
 		\item An absolute pointer value loses
@@ -167,8 +167,8 @@
 \subsection{Process Addressing}
 \begin{frame}
 	\frametitle{Process Addressing}
-	Another important issue in message based communication is addressing(or naming)of the 
-	parties involved in an interaction.\\MPS usually supports two types of process 
+	Another important issue in message based communication is addressing(or naming)of the
+	parties involved in an interaction.\\MPS usually supports two types of process
 	addressing.
 	\vspace{0.5cm}
 	\begin{itemize}
@@ -182,19 +182,130 @@
 \subsection{Failure Handling}
 \begin{frame}[allowframebreaks]
 	\frametitle{ Failure Handling}
-	While distributed system may offer potential for parallelism, it is also prone to partial failure such as node crash or a communication link failure. Therefore, during interprocess communication, such failures may lead the following problems:
+	While distributed system may offer potential for parallelism, it is also prone to
+	partial failure such as node crash or a communication link failure. Therefore, during
+	interprocess communication, such failures may lead the following problems:
 	\begin{enumerate}
 		\item Loss of Request Message
 		\item Loss of Response Message
 		\item Unsuccessful Execution of the Request
-	\end{enumerate}
-	\framebreaks
-	
+	\end{enumerate}	
+	\framebreak
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig36(a).jpg}
+		\caption{Request message is lost}
+	\end{figure}
+	\framebreak	
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig36(b).jpg}
+		\caption{Response message is lost}
+	\end{figure}
+	\framebreak	
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig36(c).jpg}
+		\caption{Receiver's computer crashed}
+	\end{figure}
+	\framebreak	
+	To cope up with these problems, a reliable IPC protocol of a MPS is normally designed
+	based on the idea of internal retransmission of message after timeouts and the return
+	of the acknowledgement message of the sending machine's kernel be the receiving
+	machine's kernel.\\Based on the above idea, a fourway message reliable IPC protocol
+	for client-server between two processes works as follows:
+	\begin{enumerate}
+		\item Four-Message Reliable IPC Protocol
+		\item Three-Message Reliable IPC Protocol
+		\item Two-Message Reliable IPC Protocol
+	\end{enumerate}		
+	\begin{figure}
+		\centering
+		\includegraphics[width=4cm]{fig37.jpg}
+		\caption{Four-message reliable IPC protocol}
+	\end{figure}
 \end{frame}
 
 \begin{frame}
+	\frametitle{Failure Handling(Continues...)}
+	\begin{figure}
+		\centering
+		\includegraphics[width=4cm]{fig38.jpg}
+		\caption{Three-message reliable IPC protocol}
+	\end{figure}	
+\end{frame}	
 
+\begin{frame}
+	\frametitle{Failure Handling(Continues...)}
+	\begin{figure}
+		\centering
+		\includegraphics[width=4cm]{fig39.jpg}
+		\caption{Two-message reliable IPC protocol}
+	\end{figure}	
+\end{frame}	
+
+
+\begin{frame}
+	\frametitle{Failure Handling(Continues...)}
+	Consider an example of fault-tolerant communication between a client and a server
+	\begin{figure}
+		\centering
+		\includegraphics[width=8cm]{fig310.jpg}
+		\caption{fault-tolerant communication between a client and a server}
+	\end{figure}	
+\end{frame}	
+
+
+\subsubsection{Idem-potency}
+\begin{frame}[allowframebreaks]
+	\frametitle{Idem-potency and Handling of Duplicate Messages}
+	
+	\justifying{Consider the following routine of a server process that debits a specified amount from
+	a bank and returns the balance amount to a requesting client.}
+	%debit(amount)\\
+	%if(balance>=amount)\\
+	%{\\	
+	%balance=balance-amount;\\
+	%return("Success",balance)\\
+	%else\\
+	%return("Failure",balance)\\
+	%end
+	\begin{figure}
+		\centering
+		\includegraphics[width=6cm]{fig311.jpg}
+		\caption{A Non-idempotent routine}
+	\end{figure}
+	\framebreak
+	\begin{figure}
+		\centering
+		\includegraphics[width=8cm]{fig312.jpg}
+		\caption{Exactly once semantics}
+	\end{figure}
 \end{frame}
 
-
-\end{document}
+\subsection{Group Communication}
+\begin{frame}[allowframebreaks]
+	\frametitle{Group Communication}
+	Depending on single or multiple senders and receivers, the following are the three 
+	types of group communications;
+	\begin{enumerate}
+		\item One-to-Many
+		\item Many-to-One
+		\item Many-to-Many
+	\end{enumerate}	
+	\vspace{4cm}
+	\framebreak
+	1. One-to-Many
+	\begin{itemize}
+				\item Group Management
+				\item Group Addressing
+				\item Message Delivery to Receiver Process
+				\item Buffered and Unbuffered Multicast
+				\item Send-to-All and Bulletin-Board Semantics
+				\item Flexible Reliability in Multicast Communication
+				\item Atomic Multicast
+				\item Group Communication Primitives
+		\end{itemize}
+		\vspace{2cm}
+\end{frame}
+\end{document} 
