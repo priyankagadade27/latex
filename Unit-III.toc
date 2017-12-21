@@ -1,1 +1,12 @@
+\select@language {english}
 \beamer@subsectionintoc {0}{1}{Introduction}{1}{0}{0}
+\beamer@subsectionintoc {0}{2}{RPC Model}{3}{0}{0}
+\beamer@subsectionintoc {0}{3}{Transparency of RPC}{5}{0}{0}
+\beamer@subsectionintoc {0}{4}{Implementation of RPC}{6}{0}{0}
+\beamer@subsectionintoc {0}{5}{Stub Generation}{8}{0}{0}
+\beamer@subsectionintoc {0}{6}{RPC Messages}{9}{0}{0}
+\beamer@subsectionintoc {0}{7}{Marshaling Arguments and Results}{11}{0}{0}
+\beamer@subsectionintoc {0}{8}{Server Management}{12}{0}{0}
+\beamer@subsectionintoc {0}{9}{Parameter-Passing Semantics}{17}{0}{0}
+\beamer@subsectionintoc {0}{10}{Call Semantics}{18}{0}{0}
+\beamer@subsectionintoc {0}{11}{Communication Protocols}{20}{0}{0}

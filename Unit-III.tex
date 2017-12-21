@@ -1,5 +1,15 @@
 \documentclass{beamer}
 \usepackage{ragged2e}   % Package for justification
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+
+%\useoutertheme{beaver}
+%\usetheme{Warsaw}
+%\usetheme{Madrid}
+\usetheme{Hannover}
+
 \begin{document}
 
 
@@ -7,7 +17,7 @@
 \begin{frame}
 	\centering
 	\large Unit-III\\
-	\huge Remote Procedure Calls
+	\huge{Remote Procedure Calls} 
 \end{frame}
 
 \begin{frame}
@@ -17,18 +27,21 @@
 	was felt for  a general IPC protocol that can be used  for designing several 
 	distributed applications. The Remote Procedure Call (RPC) facility emerged out of this 
 	need.IPC gained popularity because of following reasons;
+	
 	\begin{enumerate}
-		\item Simple Call Syntax.
-		\item Familiar Semantics.
-		\item Its specification of a well-defined interface.
-		\item Its ease of use.
-		\item Its generality.
-		\item Its efficiency.
-		\item It can be used as an IPC mechanism to communicate between processes on 
-		different machines as well as between different processes on the same machine.
-	\end{enumerate}		
+		\item {Simple Call Syntax.}
+		\item {Familiar Semantics.}
+		\item {Its specification of a well-defined interface.}
+		\item {Its ease of use.}
+		\item {Its generality.}
+		\item {Its efficiency.}
+		\item {It can be used as an IPC mechanism to communicate between processes on 
+		different machines as well as between different processes on the same machine.}
+	\end{enumerate}	
+
 \end{frame}
 
+\subsection{RPC Model}
 \begin{frame}
 	\frametitle{RPC Model}
 	The RPC model is similar to the well-known and well-understood procedure call model used for the transfer of control and data within a program in the following manner;
@@ -55,6 +68,7 @@
 	 \end{figure}
 \end{frame}
 
+\subsection{Transparency of RPC}
 \begin{frame}
 	\frametitle{Transparency of RPC}
 	\justifying{A transparent RPC mechanism is one in which local procedures and remote procedures indistinguishable to the programmers. This requires the following two types of transparencies}
@@ -69,7 +83,7 @@
 	\vspace{3cm}
 \end{frame}
 
-
+\subsection{Implementation of RPC}
 \begin{frame}
 	\frametitle{Implementation of RPC}
 	\justifying{Implementation of RPC mechanism usually involves the following five 
@@ -94,6 +108,7 @@
 \end{frame}
 
 
+\subsection{Stub Generation}
 \begin{frame}
 	\frametitle{Stub Generation}
 	Stub can be generated in one of the following ways.
@@ -104,6 +119,7 @@
 	\vspace{6cm}
 \end{frame}
 
+\subsection{RPC Messages}
 \begin{frame}
 	\frametitle{RPC Messages}
 	There are two types of messages involved in RPC implementation.
@@ -131,5 +147,190 @@
 		\caption{(a)A Successfule Reply Message Format (b)An Unsuccessful Message Format}
 	\end{figure}
 \end{frame}
+
+
+\subsection{Marshaling Arguments and Results}
+\begin{frame}
+	\frametitle{Marshaling Arguments and Results}
+	For RPC, encoding and decoding of message data is called Marshaling and involves following actions.
+	\begin{enumerate}
+		\item Taking the arguments
+		\item Encoding the message data
+		\item Decoding the message data
+	\end{enumerate}
+	\vspace{0.5cm}
+	Marshaling procedure may be classified into two groups
+	\begin{itemize}
+		\item Those provided as a part of the RPC software
+		\item Those that are defined by the user of the RPC system.
+	\end{itemize}
+	\vspace{2cm}
+\end{frame}
+
+\subsection{Server Management}
+\begin{frame}
+	\frametitle{Server Management}
+	In IPC-based  applications, two important issues that need to be considered for server management; 
+	\vspace{0.5cm}
+	\begin{enumerate}
+		\item Server Implementation
+		\item Server Creation
+	\end{enumerate}
+	\vspace{5cm}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Server Management...[Cntd..]}
+	1. Server Implementation\\
+	\vspace{0.3cm}
+	Based on the style of implementation used, servers may be of two types
+	\vspace{0.3cm}
+	\begin{itemize}
+		\item Stateful Servers
+		\item Stateless Servers
+	\end{itemize}
+		
+	\vspace{5cm}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Server Management...[Cntd..]}
+	1.1 Stateful Server
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig45.jpg}
+		\caption{Example of a Stateful File Server}
+	\end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Server Management...[Cntd..]}
+	1.2 Stateless Servers
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig46.jpg}
+		\caption{Example of a Stateless File Server}
+	\end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Server Management...[Cntd..]}
+	\vspace{0.3cm}
+	2. Server Creation Semantics\\
+	\vspace{0.3cm}
+	Based on the time duration for which RPC server survive, they may be classified as;
+	\vspace{0.3cm}
+	\begin{itemize}
+		\item Instance-per-Call Servers
+		\item Instance-per-Session Servers
+		\item Persistent Servers
+	\end{itemize}
+		
+	\vspace{5cm}
+\end{frame}
+
+\subsection{Parameter-Passing Semantics}
+\begin{frame}
+	\frametitle{Parameter-Passing Semantics}
+	\vspace{0.3cm}
+	\justifying{The choice of parameter-Passing semantics is a crucial to the design of an 
+	RPC mechanism. Followings are the choices of parameter passing;}
+	\vspace{0.3cm}
+	\begin{itemize}
+		\item Call-by-Value
+		\item Call-by-Reference
+	\end{itemize}
+		
+	\vspace{5cm}
+\end{frame}
+
+
+\subsection{Call Semantics}
+\begin{frame}
+	\frametitle{Call Semantics}
+	\vspace{0.3cm}
+	\justifying{In RPC,the caller and callee processes are possibly located on different nodes. Thus it is possible for eithe the caller or callee node to fail independently and later to be restarted. In addition, failure of communication links are also possible, therefore , the normal functioning of an RPC may gets disrupted due to following reason;}
+	\vspace{0.3cm}
+	\begin{enumerate}
+		\item The call message gets lost
+		\item Response message gets lost
+		\item The callee node crashes and is restarted
+		\item The caller node crashes and is restarted
+	\end{enumerate}		
+	The different types of call semantics used in RPC system are;
+	\vspace{5cm}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Call Semantics..[Cntd...]}
+	\vspace{0.3cm}
+	The different types of call semantics used in RPC system are;
+	\vspace{0.3cm}
+	\begin{enumerate}
+		\item Possibly or May-be Call Semantics
+		\item Last-one Call Semantics
+		\item Last-of-Many Call Semantics
+		\item At-Least-Once Call Semantics
+		\item Exactly-Once Call Semantics
+	\end{enumerate}		
+	\vspace{5cm}
+\end{frame}
+
+
+\subsection{Communication Protocols}
+\begin{frame}
+	\frametitle{Communication Protocols for RPC's}
+	\vspace{0.3cm}
+	\justifying{Based on the needs of different systems, several communication protocols have been proposed for use of RPC's. Followings are the protocols;}
+	\vspace{0.3cm}
+	\begin{enumerate}
+		\item The Request Protocol
+		\item The Request/Reply Protocol
+		\item The Request/Reply/Acknowledge-Reply Protocol
+	\end{enumerate}		
+	\vspace{5cm}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Communication Protocols for RPC's...[Cnts...]}
+	\vspace{0.3cm}
+	1. The Request Protocol
+	\begin{figure}
+		\centering
+		\includegraphics[width=6cm]{fig47.jpg}
+		\caption{Request(R) Protocol}
+	\end{figure}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Communication Protocols for RPC's...[Cnts...]}
+	\vspace{0.3cm}
+	2. The Request/Reply Protocol
+	\begin{figure}
+		\centering
+		\includegraphics[width=6cm]{fig48.jpg}
+		\caption{Request/Reply (RR) Protocol}
+	\end{figure}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Communication Protocols for RPC's...[Cnts...]}
+	\vspace{0.3cm}
+	3. The Request/Reply/Acknowledge-Reply Protocol
+	\begin{figure}
+		\centering
+		\includegraphics[width=6cm]{fig49.jpg}
+		\caption{The Request/Reply/Acknowledge-Reply (RRA) Protocol}
+	\end{figure}
+\end{frame}
+
+
+
+
 
 \end{document}
