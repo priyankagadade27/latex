@@ -10,3 +10,7 @@
 \beamer@subsectionintoc {0}{9}{Parameter-Passing Semantics}{17}{0}{0}
 \beamer@subsectionintoc {0}{10}{Call Semantics}{18}{0}{0}
 \beamer@subsectionintoc {0}{11}{Communication Protocols}{20}{0}{0}
+\beamer@subsectionintoc {0}{12}{Complicated RPCs}{24}{0}{0}
+\beamer@subsectionintoc {0}{13}{Client-Server Binding}{25}{0}{0}
+\beamer@subsectionintoc {0}{14}{RPC in Heterogeneous Environment}{34}{0}{0}
+\beamer@subsectionintoc {0}{15}{Lightweight RPC}{35}{0}{0}

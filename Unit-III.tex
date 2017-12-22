@@ -8,7 +8,7 @@
 %\useoutertheme{beaver}
 %\usetheme{Warsaw}
 %\usetheme{Madrid}
-\usetheme{Hannover}
+%\usetheme{Hannover}  % Beamer Theme
 
 \begin{document}
 
@@ -29,14 +29,14 @@
 	need.IPC gained popularity because of following reasons;
 	
 	\begin{enumerate}
-		\item {Simple Call Syntax.}
-		\item {Familiar Semantics.}
-		\item {Its specification of a well-defined interface.}
-		\item {Its ease of use.}
-		\item {Its generality.}
-		\item {Its efficiency.}
-		\item {It can be used as an IPC mechanism to communicate between processes on 
-		different machines as well as between different processes on the same machine.}
+		\item Simple Call Syntax.
+		\item Familiar Semantics.
+		\item Its specification of a well-defined interface.
+		\item Its ease of use.
+		\item Its generality.
+		\item Its efficiency.
+		\item It can be used as an IPC mechanism to communicate between processes on 
+		different machines as well as between different processes on the same machine.
 	\end{enumerate}	
 
 \end{frame}
@@ -44,13 +44,17 @@
 \subsection{RPC Model}
 \begin{frame}
 	\frametitle{RPC Model}
-	The RPC model is similar to the well-known and well-understood procedure call model used for the transfer of control and data within a program in the following manner;
+	\vspace{0.5cm}
+	The RPC model is similar to the well-known and well-understood procedure call model 
+	used for the transfer of control and data within a program in the following manner;
+	\vspace{0.5cm}
 	\begin{enumerate}
 		\item To make a procedure call
 		\item Control transfer
 		\item Procedure body execution
 		\item Returning control
 	\end{enumerate}
+	\vspace{0.5cm}
 	\justifying{The RPC mechanism is an extension of the procedure call mechanism in the sense that it 
 	enables a call to be made to a procedure that does not reside in the address space of 
 	the calling process. The called procedure( commonly called remote procedure) may be on 
@@ -88,6 +92,7 @@
 	\frametitle{Implementation of RPC}
 	\justifying{Implementation of RPC mechanism usually involves the following five 
 	elements of program.}
+	\vspace{0.5cm}
 	\begin{enumerate}
 		\item Client
 		\item Client Stub
@@ -259,7 +264,6 @@
 		\item The callee node crashes and is restarted
 		\item The caller node crashes and is restarted
 	\end{enumerate}		
-	The different types of call semantics used in RPC system are;
 	\vspace{5cm}
 \end{frame}
 
@@ -326,6 +330,219 @@
 		\centering
 		\includegraphics[width=6cm]{fig49.jpg}
 		\caption{The Request/Reply/Acknowledge-Reply (RRA) Protocol}
+	\end{figure}
+\end{frame}
+
+
+\subsection{Complicated RPCs}
+\begin{frame}
+	\frametitle{Complicated RPCs}
+	Following two types of RPCs are complicated;
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item RPCs involving long duration calls or large gaps between calls
+		\item RPCs involving arguments and /or Results that are too large to fit in a 
+		single datagram packet.
+	\end{itemize}
+	\vspace{3cm}
+\end{frame}
+
+
+\subsection{Client-Server Binding}
+\begin{frame}
+	\frametitle{Client-Server Binding}
+	The client-server binding process involves proper binding of several issues;
+	\begin{enumerate}
+		\item Server Naming
+		\item Server Locating
+		\item Binding Time
+		\item Changing Binding
+		\item Multiple Simultaneous Bindings
+	\end{enumerate}
+	\vspace{3cm}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Client-Server Binding...[Cntd...]}
+	1. Server Naming\\
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item How does a client specify a server to which it wants to get bound?
+		\item Interface Name: a type and an Instance
+	\end{itemize}
+	\vspace{5cm}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Client-Server Binding...[Cntd...]}
+	2. Server Locating\\
+	\vspace{0.5cm}
+	To locate server, two commonly methods used
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item Broadcasting
+		\item Binding Agent
+		\begin{figure}
+			\centering
+			\includegraphics[width=6cm]{fig410.jpg}
+			\caption{Binding Agent Mechanism for locating a server}
+		\end{figure}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Client-Server Binding...[Cntd...]}
+	\vspace{0.5cm}
+	3. Binding Time\\
+	\vspace{0.5cm}
+	A Client may be bound to a server at
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item Binding at Compile Time
+		\item Binding at Link Time
+		\item Binding at Call Time
+		\begin{figure}
+			\centering
+			\includegraphics[width=6cm]{fig411.jpg}
+			\caption{Binding at Call Time by the method of Indirect Call}
+		\end{figure}
+	\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Client-Server Binding...[Cntd...]}
+	\vspace{0.3cm}
+	4. Multiple Simultaneous Binding\\
+	\vspace{0.2cm}
+	In a system, a server may be provided by multiple servers. In general, a client is 
+	bound to a single server of the several servers of the same time. 
+
+	\begin{itemize}
+		\item Binding at Compile Time
+		\item Binding at Link Time
+		\item Binding at Call Time
+		\begin{figure}
+			\centering
+			\includegraphics[width=6cm]{fig411.jpg}
+			\caption{Binding at Call Time by the method of Indirect Call}
+		\end{figure}
+	\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Some Special Types of RPC's}
+	\vspace{0.2cm}
+	1. Callback RPC
+	\begin{figure}
+		\centering
+		\includegraphics[width=8.5cm]{fig412.jpg}
+		\caption{Callback RPC}
+	\end{figure}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Some Special Types of RPC's...[Cntd...]}
+	\vspace{0.5cm}
+	To provide callback RPC facilities, followings are necessary
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item Providing the Server with the Client's Handle
+		\item Making the Client Process Wait for the Callback RPC
+		\item Handling Callback Deadlocks
+		\begin{figure}
+			\centering
+			\includegraphics[width=7cm]{fig413.jpg}
+			\caption{Callback Deadlock}
+		\end{figure}
+	\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Some Special Types of RPC's...[Cntd...]}
+	2. Broadcast RPC\\
+	\vspace{0.5cm}	
+	A broadcast RPC mechanism may use one of the following two methods for broadcasting a 
+	clients request;
+	\begin{itemize}
+		\item A special broadcast primitives
+		\item To declare broadcast ports
+	\end{itemize}	
+	\vspace{4cm}	
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Some Special Types of RPC's...[Cntd...]}
+	\vspace{0.5cm}
+	3. Batch-Mode RPC\\
+	\vspace{0.5cm}
+	\begin{itemize}
+		\item{mode RPC is used to queue separate RPC request in a transmission 
+		buffer on the client side and then send them over the network in one batch to the 
+		server.}\\
+		\vspace{0.5cm}
+		\item{However, batch-mode RPC can be used only with those applications in which a 
+		client has many RPC requests to send to a server and the client does not need to 
+		reply for a sequence of requests.}\\
+		\vspace{0.5cm}
+		\item{Therefore, the requests are queued on the client side and the entire queue 
+		of 	requests is flushed to the server.}
+
+	\end{itemize}
+		\vspace{1.8cm}
+\end{frame}
+
+
+\subsection{RPC in Heterogeneous Environment}
+\begin{frame}
+	\frametitle{RPC in Heterogeneous Environment}
+	\justifying{When designing an RPC system for a heterogeneous environment, the three 
+	common types of heterogeneity that need to be considered}
+	\vspace{0.5cm}
+	\begin{enumerate}
+		\item Data Representation
+		\item Transport Protocol
+		\item Control Protocol
+	\end{enumerate}
+	\vspace{3cm}
+\end{frame}
+
+
+\subsection{Lightweight RPC}
+\begin{frame}
+	\frametitle{Lightweight RPC}
+	\justifying{To achieve better performance than conventional RPC, following four 
+	techniques are used by LRPC}
+	\begin{enumerate}
+		\item Simple Control Transfer
+		\item Simple Data Transfer
+		\item Simple Stubs
+		\item Design for Concurrency
+	\end{enumerate}
+	\vspace{4cm}
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Lightweight RPC...[Cntd...]}
+	\begin{figure}
+		\centering
+		\includegraphics[width=7cm]{fig414(a).jpg}
+		\caption{(a)Tradittional Cross Domain RPC}
+	\end{figure}				
+\end{frame}
+
+
+\begin{frame}
+	\frametitle{Lightweight RPC...[Cntd...]}
+	\begin{figure}
+		\centering
+		\includegraphics[width=10cm]{fig414(b).jpg}
+		\caption{(b)LightWeight RPC}
 	\end{figure}
 \end{frame}
 
