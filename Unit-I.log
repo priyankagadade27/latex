@@ -1,23 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  8 DEC 2017 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.3)  3 JAN 2018 15:06
 entering extended mode
 **./Unit-I.tex
 (Unit-I.tex
 LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.cls
-Document Class: beamer 2017/11/10 v3.44 A class for typesetting presentations
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemodes.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.c
+ls"
+Document Class: beamer 2017/12/16 v3.47 A class for typesetting presentations
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+semodes.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolb
+ox.sty"
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count79
 )
 \beamer@tempbox=\box26
 \beamer@tempcount=\count80
 \c@beamerpauses=\count81
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasedecode.st
-y
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sedecode.sty"
 \beamer@slideinframe=\count82
 \beamer@minimum=\count83
 )
@@ -69,8 +73,8 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@sectionadjust=\count102
 \beamer@tocsectionnumber=\count103
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoptions.s
-ty ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seoptions.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
@@ -104,8 +108,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\
+pgfcore.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
@@ -125,37 +129,41 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
-mmon.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer
+\pgfsys.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\p
+gfrcs.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-common.tex"
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
-mmon-lists.tex))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
-tex.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-common-lists.tex"))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-latex.def"
 \pgfutil@abb=\box34
- (C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
-e.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfrcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
-de.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
-tered.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen130
@@ -176,33 +184,34 @@ tered.code.tex
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
-dftex.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
-ommon-pdf.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
-ftpath.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count111
 \pgfsyssoftpath@bigbuffer@items=\count112
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
-otocol.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.s
+ty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -216,18 +225,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
-x
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
-e.tex
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
-e.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+ath.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athcalc.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athutil.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athparser.code.tex"
 \pgfmath@dimen=\dimen138
 \pgfmath@count=\count113
 \pgfmath@box=\box35
@@ -235,30 +244,30 @@ ode.tex
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.code.tex
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.basic.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.trigonometric.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.random.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.comparison.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.base.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.round.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.misc.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.integerarithmetics.code.tex)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
-de.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.basic.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.trigonometric.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.random.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.comparison.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.base.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.round.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.misc.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.integerarithmetics.code.tex")))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count114
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
-ints.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen139
 \pgf@picmaxx=\dimen140
@@ -275,83 +284,84 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen151
 \pgf@zy=\dimen152
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thconstruct.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen153
 \pgf@path@lasty=\dimen154
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thusage.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen155
 \pgf@shorten@start@additional=\dimen156
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
-opes.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count115
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
-aphicstate.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen157
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
-ansformations.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen158
 \pgf@pt@y=\dimen159
 \pgf@pt@temp=\dimen160
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
-ick.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
-jects.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thprocessing.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
-rows.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen161
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
-ade.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen162
 \pgf@sys@shading@range@num=\count116
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
-age.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
-ternal.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box39
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
-yers.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
-ansparency.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-tterns.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\xxcolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\x
+xcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count117
 \XC@countmixins=\count118
@@ -439,7 +449,7 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count122
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -476,12 +486,12 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaserequires.
-sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecompatibi
-lity.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasefont.sty
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+serequires.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+secompatibility.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sefont.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
@@ -492,42 +502,42 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\sansmathacc
-ent.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\
+sansmathaccent.sty"
 Package: sansmathaccent 2013/03/28
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\fileho
+ok.sty"
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetranslato
-r.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
-or.sty
-Package: translator 2010/06/12 ver 1.10
-
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
-or-language-mappings.tex)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemisc.sty)
-
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetwoscreen
-s.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoverlay.s
-ty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setranslator.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator.sty"
+Package: translator 2017/11/30 v1.11
+))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+semisc.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setwoscreens.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seoverlay.sty"
 \beamer@argscount=\count127
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count128
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetitle.sty
-)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasesection.s
-ty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setitle.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sesection.sty"
 \c@lecture=\count129
 \c@part=\count130
 \c@section=\count131
 \c@subsection=\count132
 \c@subsubsection=\count133
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframe.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframe.sty"
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
@@ -543,38 +553,42 @@ ty
 \framewidth=\dimen168
 \c@framenumber=\count137
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseverbatim.
-sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+severbatim.sty"
 \beamer@verbatimfileout=\write4
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframesize
-.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframesize.sty"
 \beamer@splitbox=\box43
 \beamer@autobreakcount=\count138
 \beamer@autobreaklastheight=\dimen169
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframecomp
-onents.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframecomponents.sty"
 \beamer@footins=\box44
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+secolor.sty"
 \beamer@bg@ht=\dimen170
 \beamer@bg@wd=\dimen171
 \beamer@bg@dp=\dimen172
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenotes.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+senotes.sty"
 \beamer@frameboxcopy=\box45
-) (C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetoc.sty
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetemplates
-.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setoc.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setemplates.sty"
 \beamer@sbttoks=\toks30
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseauxtempla
-tes.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseboxes.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seauxtemplates.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seboxes.sty"
 \bmb@box=\box46
 \bmb@colorbox=\box47
 \bmb@boxshadow=\box48
@@ -587,8 +601,9 @@ tes.sty
 )
 \beamer@blockheadheight=\dimen177
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaselocalstru
-cture.sty ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+selocalstructure.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
@@ -597,12 +612,12 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenavigatio
-n.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+senavigation.sty"
 \beamer@section@min@dim=\dimen178
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetheorems.
-sty ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setheorems.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip51
 
@@ -674,22 +689,23 @@ Package: amsthm 2015/03/04 v2.20.2
 )
 \c@theorem=\count153
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasethemes.st
-y))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\theme\beamer
-themedefault.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\font\beamerf
-ontthemedefault.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\color\beamer
-colorthemedefault.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\inner\beamer
-innerthemedefault.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sethemes.sty"))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerth
+emedefault.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerfo
+ntthemedefault.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerco
+lorthemedefault.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerin
+nerthemedefault.sty"
 \beamer@dima=\dimen188
 \beamer@dimb=\dimen189
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\outer\beamer
-outerthemedefault.sty)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerou
+terthemedefault.sty")))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyh
+dr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip57
@@ -703,8 +719,7 @@ s
 \f@nch@O@orf=\skip65
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 10.
-
-No file Unit-I.aux.
+ (Unit-I.aux)
 \openout1 = `Unit-I.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -721,6 +736,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -755,7 +771,9 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf
+.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count154
 \scratchdimen=\dimen190
@@ -796,6 +814,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 12.
 LaTeX Info: Redefining \pageref on input line 12.
 LaTeX Info: Redefining \nameref on input line 12.
+
+(Unit-I.out) (Unit-I.out)
 \@outlinefile=\write5
 \openout5 = `Unit-I.out'.
 
@@ -852,122 +872,119 @@ LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
 ut line 12.
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-basic-dictionary\translator-basic-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-bibliography-dictionary\translator-bibliography-dictionary-English.dic
-t
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-environment-dictionary\translator-environment-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-months-dictionary\translator-months-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-numbers-dictionary\translator-numbers-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-theorem-dictionary\translator-theorem-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file Unit-I.nav.
-[1
-
-{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for U+msa on input line 53.
+) (Unit-I.nav)
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 53.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 53.
+line 43.
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\ot1mathkern
-cmss.fd
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\
+ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) [2
+) [1
+
+{C:/Users/Harish D Gadade/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [
+2
 
 ]
-<tightlyCoupledSystem.jpg, id=70, 526.96875pt x 108.405pt>
+<tightlyCoupledSystem.jpg, id=125, 526.96875pt x 108.405pt>
 File: tightlyCoupledSystem.jpg Graphic file (type jpg)
 <use tightlyCoupledSystem.jpg>
-Package pdftex.def Info: tightlyCoupledSystem.jpg  used on input line 69. on in
-put line 69.
+Package pdftex.def Info: tightlyCoupledSystem.jpg  used on input line 74. on in
+put line 74.
 Package pdftex.def Info: Requested size: 284.52756pt x 58.5345pt on input line 
-69.
-<looselyCoupledSystem.jpg, id=71, 495.35063pt x 147.55125pt>
+74.
+<looselyCoupledSystem.jpg, id=126, 495.35063pt x 147.55125pt>
 File: looselyCoupledSystem.jpg Graphic file (type jpg)
 <use looselyCoupledSystem.jpg>
-Package pdftex.def Info: looselyCoupledSystem.jpg  used on input line 69. on in
-put line 69.
+Package pdftex.def Info: looselyCoupledSystem.jpg  used on input line 74. on in
+put line 74.
 Package pdftex.def Info: Requested size: 284.52756pt x 84.7535pt on input line 
-69.
+74.
  [3
 
- <./tightlyCoupledSystem.jpg> <./looselyCoupledSystem.jpg>]
-[4
+ <./tightlyCoupledSystem.jpg> <./looselyCoupledSystem.jpg>] [4
 
 ] [5
 
 ]
-<miniComputerModel.jpg, id=151, 458.46281pt x 332.74312pt>
+<miniComputerModel.jpg, id=203, 458.46281pt x 332.74312pt>
 File: miniComputerModel.jpg Graphic file (type jpg)
 <use miniComputerModel.jpg>
-Package pdftex.def Info: miniComputerModel.jpg  used on input line 106. on inpu
-t line 106.
+Package pdftex.def Info: miniComputerModel.jpg  used on input line 119. on inpu
+t line 119.
 Package pdftex.def Info: Requested size: 284.52756pt x 206.51184pt on input lin
-e 106.
+e 119.
 
-Overfull \vbox (88.14143pt too high) detected at line 106
+Overfull \vbox (88.14143pt too high) detected at line 119
  []
 
 [6
 
  <./miniComputerModel.jpg>]
-<workStationModel.jpg, id=179, 459.21562pt x 237.88875pt>
+<workStationModel.jpg, id=230, 459.21562pt x 237.88875pt>
 File: workStationModel.jpg Graphic file (type jpg)
 <use workStationModel.jpg>
-Package pdftex.def Info: workStationModel.jpg  used on input line 125. on input
- line 125.
+Package pdftex.def Info: workStationModel.jpg  used on input line 138. on input
+ line 138.
 Package pdftex.def Info: Requested size: 199.16928pt x 103.17584pt on input lin
-e 125.
+e 138.
  [7
 
  <./workStationModel.jpg>]
-<workStationServerModel.jpg, id=208, 490.83376pt x 343.2825pt>
+<workStationServerModel.jpg, id=258, 490.83376pt x 343.2825pt>
 File: workStationServerModel.jpg Graphic file (type jpg)
 <use workStationServerModel.jpg>
-Package pdftex.def Info: workStationServerModel.jpg  used on input line 145. on
- input line 145.
+Package pdftex.def Info: workStationServerModel.jpg  used on input line 158. on
+ input line 158.
 Package pdftex.def Info: Requested size: 284.52756pt x 198.99922pt on input lin
-e 145.
+e 158.
 
-Overfull \vbox (126.0525pt too high) detected at line 145
+Overfull \vbox (126.0525pt too high) detected at line 158
  []
 
 [8
 
  <./workStationServerModel.jpg>]
-<processorPoolModel.jpg, id=236, 403.5075pt x 398.23781pt>
+<processorPoolModel.jpg, id=285, 403.5075pt x 398.23781pt>
 File: processorPoolModel.jpg Graphic file (type jpg)
 <use processorPoolModel.jpg>
-Package pdftex.def Info: processorPoolModel.jpg  used on input line 157. on inp
-ut line 157.
+Package pdftex.def Info: processorPoolModel.jpg  used on input line 170. on inp
+ut line 170.
 Package pdftex.def Info: Requested size: 199.16928pt x 196.56624pt on input lin
-e 157.
+e 170.
  [9
 
  <./processorPoolModel.jpg>] [10
@@ -980,27 +997,27 @@ e 157.
 ] [13
 
 ]
-<monoLithicKernelModel.jpg, id=370, 531.48563pt x 188.20313pt>
+<monoLithicKernelModel.jpg, id=413, 531.48563pt x 188.20313pt>
 File: monoLithicKernelModel.jpg Graphic file (type jpg)
 <use monoLithicKernelModel.jpg>
-Package pdftex.def Info: monoLithicKernelModel.jpg  used on input line 304. on 
-input line 304.
+Package pdftex.def Info: monoLithicKernelModel.jpg  used on input line 318. on 
+input line 318.
 Package pdftex.def Info: Requested size: 284.52756pt x 100.75516pt on input lin
-e 304.
+e 318.
 
-Overfull \hbox (21.0378pt too wide) in paragraph at lines 304--304
+Overfull \hbox (21.0378pt too wide) in paragraph at lines 318--318
  [] 
  []
 
-<microKernelModel.jpg, id=371, 524.71031pt x 234.8775pt>
+<microKernelModel.jpg, id=414, 524.71031pt x 234.8775pt>
 File: microKernelModel.jpg Graphic file (type jpg)
 <use microKernelModel.jpg>
-Package pdftex.def Info: microKernelModel.jpg  used on input line 304. on input
- line 304.
+Package pdftex.def Info: microKernelModel.jpg  used on input line 318. on input
+ line 318.
 Package pdftex.def Info: Requested size: 284.52756pt x 127.36597pt on input lin
-e 304.
+e 318.
 
-Overfull \hbox (21.0378pt too wide) in paragraph at lines 304--304
+Overfull \hbox (21.0378pt too wide) in paragraph at lines 318--318
  [] 
  []
 
@@ -1034,40 +1051,29 @@ Overfull \hbox (21.0378pt too wide) in paragraph at lines 304--304
 \tf@snm=\write8
 \openout8 = `Unit-I.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
  (Unit-I.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
-
-
-Package rerunfilecheck Warning: File `Unit-I.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Unit-I.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  3F3DBB925F6F03D511EA16510A7445CE;903.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
+Package rerunfilecheck Info: File `Unit-I.out' has not changed.
+(rerunfilecheck)             Checksum: 3F3DBB925F6F03D511EA16510A7445CE;903.
  ) 
 Here is how much of TeX's memory you used:
- 17023 strings out of 493312
- 326203 string characters out of 3138898
- 395960 words of memory out of 3000000
- 20118 multiletter control sequences out of 15000+200000
- 10693 words of font info for 39 fonts, out of 3000000 for 9000
+ 17124 strings out of 493312
+ 327836 string characters out of 3138868
+ 396536 words of memory out of 3000000
+ 20224 multiletter control sequences out of 15000+200000
+ 14490 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,55p,796b,621s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,14n,55p,796b,623s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Unit-I.pdf (20 pages, 467928 bytes).
+eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Unit-I.pdf (20 pages, 463834 bytes).
 PDF statistics:
- 582 PDF objects out of 1000 (max. 8388607)
+ 621 PDF objects out of 1000 (max. 8388607)
  62 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 

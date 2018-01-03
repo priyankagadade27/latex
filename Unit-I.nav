@@ -72,4 +72,4 @@
 \headcommand {\beamer@subsectionpages {13}{20}}
 \headcommand {\beamer@sectionpages {2}{20}}
 \headcommand {\beamer@documentpages {20}}
-\headcommand {\def \inserttotalframenumber {20}}
+\headcommand {\gdef \inserttotalframenumber {20}}
