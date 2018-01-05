@@ -3,11 +3,11 @@
 \beamer@subsectionintoc {1}{1}{Introduction}{1}{0}{1}
 \beamer@subsectionintoc {1}{2}{Features of MPS}{3}{0}{1}
 \beamer@subsectionintoc {1}{3}{Issues}{4}{0}{1}
-\beamer@subsectionintoc {1}{4}{Synchronization}{8}{0}{1}
-\beamer@subsectionintoc {1}{5}{Buffering}{11}{0}{1}
-\beamer@subsectionintoc {1}{6}{Multidatagram}{13}{0}{1}
-\beamer@subsectionintoc {1}{7}{Encoding & Decoding}{14}{0}{1}
-\beamer@subsectionintoc {1}{8}{Process Addressing}{15}{0}{1}
-\beamer@subsectionintoc {1}{9}{Failure Handling}{16}{0}{1}
-\beamer@subsubsectionintoc {1}{9}{1}{Idem-potency}{21}{0}{1}
+\beamer@subsectionintoc {1}{4}{Synchronization}{6}{0}{1}
+\beamer@subsectionintoc {1}{5}{Buffering}{8}{0}{1}
+\beamer@subsectionintoc {1}{6}{Multidatagram}{10}{0}{1}
+\beamer@subsectionintoc {1}{7}{Encoding & Decoding}{11}{0}{1}
+\beamer@subsectionintoc {1}{8}{Process Addressing}{12}{0}{1}
+\beamer@subsectionintoc {1}{9}{Failure Handling}{13}{0}{1}
+\beamer@subsubsectionintoc {1}{9}{1}{Idem-potency}{22}{0}{1}
 \beamer@subsectionintoc {1}{10}{Group Communication}{24}{0}{1}

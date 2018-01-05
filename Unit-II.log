@@ -1,23 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.22)  21 DEC 2017 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.3)  4 JAN 2018 11:39
 entering extended mode
 **./Unit-II.tex
 (Unit-II.tex
 LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.cls
-Document Class: beamer 2017/11/10 v3.44 A class for typesetting presentations
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemodes.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.c
+ls"
+Document Class: beamer 2017/12/16 v3.47 A class for typesetting presentations
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+semodes.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolb
+ox.sty"
+Package: etoolbox 2017/11/22 v2.5 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count79
 )
 \beamer@tempbox=\box26
 \beamer@tempcount=\count80
 \c@beamerpauses=\count81
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasedecode.st
-y
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sedecode.sty"
 \beamer@slideinframe=\count82
 \beamer@minimum=\count83
 )
@@ -69,8 +73,8 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@sectionadjust=\count102
 \beamer@tocsectionnumber=\count103
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoptions.s
-ty ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seoptions.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
@@ -104,8 +108,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\
+pgfcore.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
@@ -125,37 +129,41 @@ File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
-mmon.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer
+\pgfsys.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\p
+gfrcs.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-common.tex"
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
-mmon-lists.tex))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
-tex.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-common-lists.tex"))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfutil-latex.def"
 \pgfutil@abb=\box34
- (C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
-e.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfrcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys.code.tex"
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
-de.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
-tered.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities
+\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen130
@@ -176,33 +184,34 @@ tered.code.tex
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
-dftex.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
-ommon-pdf.def
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsys-common-pdf.def"
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
-ftpath.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count111
 \pgfsyssoftpath@bigbuffer@items=\count112
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
-otocol.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlay
+er\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.s
+ty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -216,18 +225,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
-x
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
-e.tex
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
-e.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
-ode.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+ath.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athcalc.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athutil.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athparser.code.tex"
 \pgfmath@dimen=\dimen138
 \pgfmath@count=\count113
 \pgfmath@box=\box35
@@ -235,30 +244,30 @@ ode.tex
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.code.tex
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.basic.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.trigonometric.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.random.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.comparison.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.base.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.round.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.misc.code.tex)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
-s.integerarithmetics.code.tex)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
-de.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.code.tex"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.basic.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.trigonometric.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.random.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.comparison.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.base.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.round.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.misc.code.tex")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfunctions.integerarithmetics.code.tex")))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfm
+athfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count114
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
-ints.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepoints.code.tex"
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen139
 \pgf@picmaxx=\dimen140
@@ -275,83 +284,84 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen151
 \pgf@zy=\dimen152
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thconstruct.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathconstruct.code.tex"
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen153
 \pgf@path@lasty=\dimen154
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thusage.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathusage.code.tex"
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen155
 \pgf@shorten@start@additional=\dimen156
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
-opes.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box36
 \pgf@hbox=\box37
 \pgf@layerbox@main=\box38
 \pgf@picture@serial@count=\count115
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
-aphicstate.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoregraphicstate.code.tex"
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen157
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
-ansformations.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoretransformations.code.tex"
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen158
 \pgf@pt@y=\dimen159
 \pgf@pt@temp=\dimen160
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
-ick.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
-jects.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-thprocessing.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
-rows.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorearrows.code.tex"
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen161
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
-ade.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen162
 \pgf@sys@shading@range@num=\count116
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
-age.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreimage.code.tex"
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
-ternal.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box39
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
-yers.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorelayers.code.tex"
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
-ansparency.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcoretransparency.code.tex"
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
-tterns.code.tex
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclaye
+r\pgfcorepatterns.code.tex"
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\xxcolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\x
+xcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count117
 \XC@countmixins=\count118
@@ -439,7 +449,7 @@ Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
 Package hyperref Info: Bookmarks ON on input line 4751.
 \c@Hy@tempcnt=\count122
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -476,12 +486,12 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaserequires.
-sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecompatibi
-lity.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasefont.sty
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+serequires.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+secompatibility.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sefont.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
@@ -492,42 +502,42 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\sansmathacc
-ent.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\
+sansmathaccent.sty"
 Package: sansmathaccent 2013/03/28
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\fileho
+ok.sty"
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetranslato
-r.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
-or.sty
-Package: translator 2010/06/12 ver 1.10
-
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\translat
-or-language-mappings.tex)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemisc.sty)
-
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetwoscreen
-s.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseoverlay.s
-ty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setranslator.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator.sty"
+Package: translator 2017/11/30 v1.11
+))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+semisc.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setwoscreens.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seoverlay.sty"
 \beamer@argscount=\count127
 \beamer@lastskipcover=\skip44
 \beamer@trivlistdepth=\count128
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetitle.sty
-)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasesection.s
-ty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setitle.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sesection.sty"
 \c@lecture=\count129
 \c@part=\count130
 \c@section=\count131
 \c@subsection=\count132
 \c@subsubsection=\count133
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframe.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframe.sty"
 \beamer@framebox=\box40
 \beamer@frametitlebox=\box41
 \beamer@zoombox=\box42
@@ -543,38 +553,42 @@ ty
 \framewidth=\dimen168
 \c@framenumber=\count137
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseverbatim.
-sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+severbatim.sty"
 \beamer@verbatimfileout=\write4
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframesize
-.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframesize.sty"
 \beamer@splitbox=\box43
 \beamer@autobreakcount=\count138
 \beamer@autobreaklastheight=\dimen169
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseframecomp
-onents.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seframecomponents.sty"
 \beamer@footins=\box44
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasecolor.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+secolor.sty"
 \beamer@bg@ht=\dimen170
 \beamer@bg@wd=\dimen171
 \beamer@bg@dp=\dimen172
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenotes.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+senotes.sty"
 \beamer@frameboxcopy=\box45
-) (C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetoc.sty
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetemplates
-.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setoc.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setemplates.sty"
 \beamer@sbttoks=\toks30
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseauxtempla
-tes.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaseboxes.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seauxtemplates.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+seboxes.sty"
 \bmb@box=\box46
 \bmb@colorbox=\box47
 \bmb@boxshadow=\box48
@@ -587,8 +601,9 @@ tes.sty
 )
 \beamer@blockheadheight=\dimen177
 ))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbaselocalstru
-cture.sty ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+selocalstructure.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
@@ -597,12 +612,12 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasenavigatio
-n.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+senavigation.sty"
 \beamer@section@min@dim=\dimen178
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasetheorems.
-sty ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+setheorems.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip51
 
@@ -674,362 +689,21 @@ Package: amsthm 2015/03/04 v2.20.2
 )
 \c@theorem=\count153
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasethemes.st
-y))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\theme\beamer
-themedefault.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\font\beamerf
-ontthemedefault.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\color\beamer
-colorthemedefault.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\inner\beamer
-innerthemedefault.sty
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerba
+sethemes.sty"))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerth
+emedefault.sty"
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerfo
+ntthemedefault.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerco
+lorthemedefault.sty")
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerin
+nerthemedefault.sty"
 \beamer@dima=\dimen188
 \beamer@dimb=\dimen189
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\outer\beamer
-outerthemedefault.sty)))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip57
-\RaggedLeftLeftskip=\skip58
-\RaggedRightLeftskip=\skip59
-\CenteringRightskip=\skip60
-\RaggedLeftRightskip=\skip61
-\RaggedRightRightskip=\skip62
-\CenteringParfillskip=\skip63
-\RaggedLeftParfillskip=\skip64
-\RaggedRightParfillskip=\skip65
-\JustifyingParfillskip=\skip66
-\CenteringParindent=\skip67
-\RaggedLeftParindent=\skip68
-\RaggedRightParindent=\skip69
-\JustifyingParindent=\skip70
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks43
-\inpenc@posthook=\toks44
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
-Now handling font encoding OML ...
-... no UTF-8 mapping file for font encoding OML
-Now handling font encoding T1 ...
-... processing UTF-8 mapping file for font encoding T1
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
-   defining Unicode char U+0102 (decimal 258)
-   defining Unicode char U+0103 (decimal 259)
-   defining Unicode char U+0104 (decimal 260)
-   defining Unicode char U+0105 (decimal 261)
-   defining Unicode char U+0106 (decimal 262)
-   defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
-   defining Unicode char U+010C (decimal 268)
-   defining Unicode char U+010D (decimal 269)
-   defining Unicode char U+010E (decimal 270)
-   defining Unicode char U+010F (decimal 271)
-   defining Unicode char U+0110 (decimal 272)
-   defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
-   defining Unicode char U+0118 (decimal 280)
-   defining Unicode char U+0119 (decimal 281)
-   defining Unicode char U+011A (decimal 282)
-   defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
-   defining Unicode char U+011E (decimal 286)
-   defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
-   defining Unicode char U+0130 (decimal 304)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0132 (decimal 306)
-   defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
-   defining Unicode char U+0139 (decimal 313)
-   defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
-   defining Unicode char U+013D (decimal 317)
-   defining Unicode char U+013E (decimal 318)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0143 (decimal 323)
-   defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
-   defining Unicode char U+0147 (decimal 327)
-   defining Unicode char U+0148 (decimal 328)
-   defining Unicode char U+014A (decimal 330)
-   defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
-   defining Unicode char U+0150 (decimal 336)
-   defining Unicode char U+0151 (decimal 337)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0154 (decimal 340)
-   defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
-   defining Unicode char U+0158 (decimal 344)
-   defining Unicode char U+0159 (decimal 345)
-   defining Unicode char U+015A (decimal 346)
-   defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
-   defining Unicode char U+015E (decimal 350)
-   defining Unicode char U+015F (decimal 351)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0162 (decimal 354)
-   defining Unicode char U+0163 (decimal 355)
-   defining Unicode char U+0164 (decimal 356)
-   defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
-   defining Unicode char U+016E (decimal 366)
-   defining Unicode char U+016F (decimal 367)
-   defining Unicode char U+0170 (decimal 368)
-   defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+0179 (decimal 377)
-   defining Unicode char U+017A (decimal 378)
-   defining Unicode char U+017B (decimal 379)
-   defining Unicode char U+017C (decimal 380)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
-   defining Unicode char U+1E02 (decimal 7682)
-   defining Unicode char U+1E03 (decimal 7683)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2010 (decimal 8208)
-   defining Unicode char U+2011 (decimal 8209)
-   defining Unicode char U+2012 (decimal 8210)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2015 (decimal 8213)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
-)
-Now handling font encoding OT1 ...
-... processing UTF-8 mapping file for font encoding OT1
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00B8 (decimal 184)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-)
-Now handling font encoding OMS ...
-... processing UTF-8 mapping file for font encoding OMS
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-)
-Now handling font encoding OMX ...
-... no UTF-8 mapping file for font encoding OMX
-Now handling font encoding U ...
-... no UTF-8 mapping file for font encoding U
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2423 (decimal 9251)
-))
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerou
+terthemedefault.sty")))
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2017/11/03 3.15 The Babel package
 
@@ -1039,11 +713,12 @@ File: switch.def 2017/11/03 3.15 Babel switching mechanism
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.c
+fg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
@@ -1060,46 +735,45 @@ LaTeX Info: Redefining \textlatin on input line 1741.
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\ragged2e.sty
+"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everysel.sty
+"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\theme\beamer
-themeHannover.sty
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\outer\beamer
-outerthemesidebar.sty
-\beamer@sidebarwidth=\dimen191
-\beamer@headheight=\dimen192
-LaTeX Font Info:    Try loading font information for T1+phv on input line 16.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-))
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\color\beamer
-colorthemeseahorse.sty)
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\inner\beamer
-innerthemecircles.sty)) (Unit-II.aux)
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+) (Unit-II.aux)
 \openout1 = `Unit-II.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1109,14 +783,14 @@ LaTeX Font Info:    ... okay on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(59.22636pt, 290.74263pt, 14.22636pt)
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=290.74263pt
+* \textwidth=307.28987pt
 * \textheight=244.6939pt
-* \oddsidemargin=-13.04362pt
-* \evensidemargin=-13.04362pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1135,19 +809,21 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf
+.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count155
-\scratchdimen=\dimen193
+\scratchdimen=\dimen191
 \scratchbox=\box53
 \nofMPsegments=\count156
 \nofMParguments=\count157
-\everyMPshowfont=\toks45
+\everyMPshowfont=\toks43
 \MPscratchCnt=\count158
-\MPscratchDim=\dimen194
+\MPscratchDim=\dimen192
 \MPnumerator=\count159
 \makeMPintoPDFobject=\count160
-\everyMPtoPDFconversion=\toks46
+\everyMPtoPDFconversion=\toks44
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1163,7 +839,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1173,608 +849,291 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count161
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
 
 (Unit-II.out) (Unit-II.out)
 \@outlinefile=\write5
 \openout5 = `Unit-II.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 6.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 6.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 6.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 6.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 6.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 6.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 6.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 6
+.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
+6.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 6.
 
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-basic-dictionary\translator-basic-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-bibliography-dictionary\translator-bibliography-dictionary-English.dic
-t
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-environment-dictionary\translator-environment-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-months-dictionary\translator-months-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-numbers-dictionary\translator-numbers-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(C:\Users\Admin\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\tr
-anslator-theorem-dictionary\translator-theorem-dictionary-English.dict
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\tran
+slator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 12.
- (Unit-II.nav)
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.20 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+LaTeX Info: Redefining \selectfont on input line 6.
+ (Unit-II.nav) [1
 
-[1{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-]
-<sharedDataApproach.jpg, id=108, 493.0922pt x 68.50594pt>
+{C:/Users/Harish D Gadade/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<sharedDataApproach.jpg, id=87, 493.0922pt x 68.50594pt>
 File: sharedDataApproach.jpg Graphic file (type jpg)
 <use sharedDataApproach.jpg>
-Package pdftex.def Info: sharedDataApproach.jpg  used on input line 40. on inpu
-t line 40.
+Package pdftex.def Info: sharedDataApproach.jpg  used on input line 34. on inpu
+t line 34.
 Package pdftex.def Info: Requested size: 227.62204pt x 31.6239pt on input line 
-40.
-<messagePassingApproach.jpg, id=109, 286.06876pt x 59.47218pt>
+34.
+<messagePassingApproach.jpg, id=88, 286.06876pt x 59.47218pt>
 File: messagePassingApproach.jpg Graphic file (type jpg)
 <use messagePassingApproach.jpg>
-Package pdftex.def Info: messagePassingApproach.jpg  used on input line 40. on 
-input line 40.
-Package pdftex.def Info: Requested size: 199.16928pt x 41.407pt on input line 4
-0.
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.40 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[2
+Package pdftex.def Info: messagePassingApproach.jpg  used on input line 34. on 
+input line 34.
+Package pdftex.def Info: Requested size: 199.16928pt x 41.407pt on input line 3
+4.
+ [2
 
  <./sharedDataApproach.jpg> <./messagePassingApproach.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 65.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
-File: omsphv.fd 
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
 
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.65 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 59.
 
-[3
+("C:\Users\Harish D Gadade\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\
+ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+) [3
 
 ]
-<messageStructure.jpg, id=185, 533.74406pt x 207.02344pt>
+<messageStructure.jpg, id=140, 533.74406pt x 207.02344pt>
 File: messageStructure.jpg Graphic file (type jpg)
 <use messageStructure.jpg>
-Package pdftex.def Info: messageStructure.jpg  used on input line 90. on input 
-line 90.
+Package pdftex.def Info: messageStructure.jpg  used on input line 84. on input 
+line 84.
 Package pdftex.def Info: Requested size: 284.52756pt x 110.36314pt on input lin
-e 90.
+e 84.
+ [4
 
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.90 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[4
-
-]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.90 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[5
-
-
- <./messageStructure.jpg>]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.90 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[6
+ <./messageStructure.jpg>] [5
 
 
 ]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.90 \end{frame}
-                
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[7
-
-
-]
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 113.
-<synchronousMode.jpg, id=338, 555.57562pt x 416.30531pt>
+<synchronousMode.jpg, id=191, 555.57562pt x 416.30531pt>
 File: synchronousMode.jpg Graphic file (type jpg)
 <use synchronousMode.jpg>
-Package pdftex.def Info: synchronousMode.jpg  used on input line 113. on input 
-line 113.
+Package pdftex.def Info: synchronousMode.jpg  used on input line 107. on input 
+line 107.
 Package pdftex.def Info: Requested size: 256.0748pt x 191.8839pt on input line 
-113.
+107.
+ [6
 
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.113 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+] [7
+
+
+ <./synchronousMode.jpg>]
+<buffering.jpg, id=243, 963.6pt x 542.025pt>
+File: buffering.jpg Graphic file (type jpg)
+<use buffering.jpg>
+Package pdftex.def Info: buffering.jpg  used on input line 130. on input line 1
+30.
+Package pdftex.def Info: Requested size: 426.79134pt x 240.06314pt on input lin
+e 130.
+
+Overfull \hbox (119.50146pt too wide) in paragraph at lines 130--130
+ [] 
+ []
 
 [8
 
 ]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.113 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+Overfull \vbox (39.24277pt too high) detected at line 130
+ []
 
 [9
 
 
- <./synchronousMode.jpg>]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.113 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[10
-
-
-]
-<buffering.jpg, id=453, 963.6pt x 542.025pt>
-File: buffering.jpg Graphic file (type jpg)
-<use buffering.jpg>
-Package pdftex.def Info: buffering.jpg  used on input line 136. on input line 1
-36.
-Package pdftex.def Info: Requested size: 426.79134pt x 240.06314pt on input lin
-e 136.
-
-Overfull \hbox (136.0487pt too wide) in paragraph at lines 136--136
- [] 
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.136 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[11
-
-]
-Overfull \vbox (46.93903pt too high) detected at line 136
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.136 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[12
-
-
- <./buffering.jpg>]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.150 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[13
+ <./buffering.jpg>] [10
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `alignment tab' on input line 153.
+(hyperref)                removing `alignment tab' on input line 147.
 
+[11
 
-Overfull \vbox (42.2596pt too high) detected at line 173
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.173 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[14
+] [12
 
 ]
-Overfull \vbox (2.94966pt too high) detected at line 188
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.188 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[15
-
-]
-<fig36(a).jpg, id=649, 356.83313pt x 245.41687pt>
+<fig36(a).jpg, id=369, 356.83313pt x 245.41687pt>
 File: fig36(a).jpg Graphic file (type jpg)
 <use fig36(a).jpg>
-Package pdftex.def Info: fig36(a).jpg  used on input line 236. on input line 23
-6.
+Package pdftex.def Info: fig36(a).jpg  used on input line 230. on input line 23
+0.
 Package pdftex.def Info: Requested size: 284.52756pt x 195.69714pt on input lin
-e 236.
-<fig36(b).jpg, id=650, 398.99063pt x 216.05719pt>
+e 230.
+<fig36(b).jpg, id=370, 398.99063pt x 216.05719pt>
 File: fig36(b).jpg Graphic file (type jpg)
 <use fig36(b).jpg>
-Package pdftex.def Info: fig36(b).jpg  used on input line 236. on input line 23
-6.
+Package pdftex.def Info: fig36(b).jpg  used on input line 230. on input line 23
+0.
 Package pdftex.def Info: Requested size: 284.52756pt x 154.0808pt on input line
- 236.
-<fig36(c).jpg, id=651, 449.42906pt x 216.81pt>
+ 230.
+<fig36(c).jpg, id=371, 449.42906pt x 216.81pt>
 File: fig36(c).jpg Graphic file (type jpg)
 <use fig36(c).jpg>
-Package pdftex.def Info: fig36(c).jpg  used on input line 236. on input line 23
-6.
+Package pdftex.def Info: fig36(c).jpg  used on input line 230. on input line 23
+0.
 Package pdftex.def Info: Requested size: 284.52756pt x 137.2659pt on input line
- 236.
-<fig37.jpg, id=652, 215.30438pt x 386.19281pt>
+ 230.
+<fig37.jpg, id=372, 215.30438pt x 386.19281pt>
 File: fig37.jpg Graphic file (type jpg)
 <use fig37.jpg>
-Package pdftex.def Info: fig37.jpg  used on input line 236. on input line 236.
+Package pdftex.def Info: fig37.jpg  used on input line 230. on input line 230.
 Package pdftex.def Info: Requested size: 113.81102pt x 204.14496pt on input lin
-e 236.
+e 230.
+ [13
 
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.236 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[16
-
-]
-Overfull \vbox (767.7233pt too high) detected at line 236
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.236 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[17
+] [14
 
 
- <./fig36(a).jpg> <./fig36(b).jpg> <./fig36(c).jpg> <./fig37.jpg>]
-<fig38.jpg, id=730, 301.8778pt x 402.00188pt>
+ <./fig36(a).jpg>] [15
+
+
+ <./fig36(b).jpg>] [16
+
+
+ <./fig36(c).jpg>] [17
+
+
+] [18
+
+
+ <./fig37.jpg>]
+<fig38.jpg, id=526, 301.8778pt x 402.00188pt>
 File: fig38.jpg Graphic file (type jpg)
 <use fig38.jpg>
-Package pdftex.def Info: fig38.jpg  used on input line 245. on input line 245.
+Package pdftex.def Info: fig38.jpg  used on input line 239. on input line 239.
 Package pdftex.def Info: Requested size: 113.81102pt x 151.55388pt on input lin
-e 245.
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.245 \end{frame}
-                 	
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[18
+e 239.
+ [19
 
  <./fig38.jpg>]
-<fig39.jpg, id=768, 284.56313pt x 447.92343pt>
+<fig39.jpg, id=553, 284.56313pt x 447.92343pt>
 File: fig39.jpg Graphic file (type jpg)
 <use fig39.jpg>
-Package pdftex.def Info: fig39.jpg  used on input line 254. on input line 254.
+Package pdftex.def Info: fig39.jpg  used on input line 248. on input line 248.
 Package pdftex.def Info: Requested size: 113.81102pt x 179.14569pt on input lin
-e 254.
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.254 \end{frame}
-                 	
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[19
+e 248.
+ [20
 
  <./fig39.jpg>]
-<fig310.jpg, id=807, 656.4525pt x 532.99126pt>
+<fig310.jpg, id=579, 656.4525pt x 532.99126pt>
 File: fig310.jpg Graphic file (type jpg)
 <use fig310.jpg>
-Package pdftex.def Info: fig310.jpg  used on input line 265. on input line 265.
+Package pdftex.def Info: fig310.jpg  used on input line 259. on input line 259.
 
 Package pdftex.def Info: Requested size: 227.62204pt x 184.80931pt on input lin
-e 265.
+e 259.
 
-Overfull \vbox (14.78328pt too high) detected at line 265
+Overfull \vbox (8.28065pt too high) detected at line 259
  []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.265 \end{frame}
-                 	
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[20
-
- <./fig310.jpg>]
-<fig311.jpg, id=846, 665.48625pt x 517.18219pt>
-File: fig311.jpg Graphic file (type jpg)
-<use fig311.jpg>
-Package pdftex.def Info: fig311.jpg  used on input line 293. on input line 293.
-
-Package pdftex.def Info: Requested size: 170.71652pt x 132.66492pt on input lin
-e 293.
-<fig312.jpg, id=847, 554.07pt x 504.38437pt>
-File: fig312.jpg Graphic file (type jpg)
-<use fig312.jpg>
-Package pdftex.def Info: fig312.jpg  used on input line 293. on input line 293.
-
-Package pdftex.def Info: Requested size: 227.62204pt x 207.20683pt on input lin
-e 293.
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.293 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
 [21
 
-]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.293 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+ <./fig310.jpg>]
+<fig311.jpg, id=605, 665.48625pt x 517.18219pt>
+File: fig311.jpg Graphic file (type jpg)
+<use fig311.jpg>
+Package pdftex.def Info: fig311.jpg  used on input line 287. on input line 287.
 
-[22
+Package pdftex.def Info: Requested size: 170.71652pt x 132.66492pt on input lin
+e 287.
+<fig312.jpg, id=606, 554.07pt x 504.38437pt>
+File: fig312.jpg Graphic file (type jpg)
+<use fig312.jpg>
+Package pdftex.def Info: fig312.jpg  used on input line 287. on input line 287.
 
+Package pdftex.def Info: Requested size: 227.62204pt x 207.20683pt on input lin
+e 287.
+ [22
 
- <./fig311.jpg>]
-Overfull \vbox (22.45496pt too high) detected at line 293
- []
-
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.293 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[23
+ <./fig311.jpg>] [23
 
 
- <./fig312.jpg>]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.319 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
+ <./fig312.jpg>] [24
 
-[24
-
-]
-! Misplaced alignment tab character &.
-\insertsubsectionhead ->Encoding &
-                                   Decoding
-l.319 \end{frame}
-                 
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-[25
+] [25
 
 
 ]
@@ -1787,60 +1146,30 @@ might try typing `S' now just to see what is salvageable.
 \tf@snm=\write8
 \openout8 = `Unit-II.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 320.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 320.
- (Unit-II.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 320.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
 
-
-Package rerunfilecheck Warning: File `Unit-II.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Unit-II.out':
-(rerunfilecheck)             Before: 27B623B07D0EE8CAF8D3F5258C88F00D;703
-(rerunfilecheck)             After:  178D5BF890483ECA118F67530505998A;704.
+(Unit-II.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package rerunfilecheck Info: File `Unit-II.out' has not changed.
+(rerunfilecheck)             Checksum: B68CFD985D01A9973AD139990B362BCB;703.
  ) 
 Here is how much of TeX's memory you used:
- 18205 strings out of 493312
- 342860 string characters out of 3138898
- 421858 words of memory out of 3000000
- 21229 multiletter control sequences out of 15000+200000
- 30898 words of font info for 36 fonts, out of 3000000 for 9000
+ 17535 strings out of 493312
+ 333856 string characters out of 3138868
+ 409869 words of memory out of 3000000
+ 20609 multiletter control sequences out of 15000+200000
+ 14797 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,71p,776b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation26} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.10.25} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.9.14} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.8.13} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.7.12} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.6.11} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.5.9} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.1.4.7} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/helvetic/uhvr8a.pfb>
-Output written on Unit-II.pdf (25 pages, 840149 bytes).
+ 56i,14n,55p,803b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Unit-II.pdf (25 pages, 790160 bytes).
 PDF statistics:
- 1066 PDF objects out of 1200 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
+ 735 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
