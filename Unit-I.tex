@@ -1,19 +1,44 @@
 \documentclass{beamer}
-\usepackage{hyperref}
 \usepackage{fancyhdr}
 
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,      
-    urlcolor=cyan,
-}
+
+% To print page number and footer
+\setbeamertemplate{footline}[text line]{
+  \parbox{\linewidth}{\vspace*{-8pt}Mr. Harish D. Gadade\hfill\insertshortauthor\hfill\insertpagenumber}}
+\setbeamertemplate{navigation symbols}{}
+\author[Govt. Colleg of Engg, Jalgaon]{}
+% End Page number and footer
+
+% To pring Header
+%\setbeamertemplate{headline}{%
+%\leavevmode%
+ % \hbox{%
+  %  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex]{palette quaternary}%
+   % \insertsectionnavigationhorizontal{\paperwidth}{}{\hskip0pt plus1filll}
+    %\end{beamercolorbox}%
+ % }
+%}
+%End Header
+
+
+% Logo do canto inferior direito
+%\pgfdeclareimage[height=0.7cm]{gcoejLogo}{gcoejLogo}
+\pgfdeclareimage[height=1cm]{gcoejLogo}{gcoejLogo}
+\logo{
+	\vspace*{8.2cm}
+	%\vspace*{-0.25cm}
+	\pgfuseimage{gcoejLogo}
+	\hspace*{-0.05cm}}
+	%\hspace*{-0.05cm}}
+
+
 
 \begin{document}   
 
 
 \section{CO451 DOS}
 \begin{frame}
+
 \begin{center}
 \huge CO451 Distributed Operating System\\
 \end{center}
@@ -200,13 +225,20 @@ ISA Tool (Marks : 10)\\
     \frametitle{ What is Distributed Operating Systems?}
     \begin{itemize}
       \item What is Operating System?
-        \\A program that controls the resources of a computer system and provides its user with an interface or a virtual machine that is more convenient to use than the bare machine. Therefor, primary tasks of OS are;
+        \\A program that controls the computer system resources and provides interface to its user. 
+	\\Therefor, primary tasks of OS are;
         \begin{itemize}
-          \item To present users with a virtual machine that is easier to program than the underlying hardware.
+          \item To present users with a virtual machine that is easier to program.
           \item To manage the various resources of the system.
         \end{itemize}
-        \vspace{1cm}
-      \item Features:
+        \vspace{0.5cm}
+	The Operating Systems commonly used for DCS can be classified on
+	\begin{itemize}
+		\item Network Operating System
+		\item Distributed Operating System
+	\end{itemize}
+	\vspace{0.5cm}
+      \item Features used to differentiate NOS and DOS are:
       \begin{enumerate}
         \item System Image
         \item Autonomy

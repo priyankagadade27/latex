@@ -5,10 +5,35 @@
 \usepackage[T1]{fontenc}
 \usepackage{helvet}
 
-%\useoutertheme{beaver}
-%\usetheme{Warsaw}
-%\usetheme{Madrid}
-%\usetheme{Hannover}  % Beamer Theme
+% To print page number and footer
+\setbeamertemplate{footline}[text line]{
+  \parbox{\linewidth}{\vspace*{-8pt}Mr. Harish D. Gadade\hfill\insertshortauthor\hfill\insertpagenumber}}
+\setbeamertemplate{navigation symbols}{}
+\author[Govt. Colleg of Engg, Jalgaon]{}
+% End Page number and footer
+
+% To pring Header
+%\setbeamertemplate{headline}{%
+%\leavevmode%
+ % \hbox{%
+  %  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex]{palette quaternary}%
+   % \insertsectionnavigationhorizontal{\paperwidth}{}{\hskip0pt plus1filll}
+    %\end{beamercolorbox}%
+ % }
+%}
+%End Header
+
+% Logo do canto inferior direito
+%\pgfdeclareimage[height=0.7cm]{gcoejLogo}{gcoejLogo}
+\pgfdeclareimage[height=1cm]{gcoejLogo}{gcoejLogo}
+\logo{
+	\vspace*{8.2cm}
+	%\vspace*{-0.25cm}
+	\pgfuseimage{gcoejLogo}
+	\hspace*{-0.05cm}}
+	%\hspace*{-0.05cm}}
+
+
 
 \begin{document}
 

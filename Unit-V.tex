@@ -1,19 +1,65 @@
 \documentclass{beamer}
-\usepackage{ragged2e}   % Package for justification
-\usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
-\usepackage[T1]{fontenc}
-\usepackage{helvet}
+
+% Título
+\title[SUBTÍTULO]{
+	Synchronization}
+% Data
+\date{
+	DATA}
+% Autores
+\author[AUTOR]{
+	Autor 01 \inst{1}\\
+	\vspace{0.25cm}
+	Autor 02 \inst{2}}
+% Instituto
+\institute[INSTITUTO]{
+	\inst{1}%
+	\url{usuario@mail.com}\\
+	\vspace{0.25cm}
+	\inst{2}%
+	Departamento\\
+	Universidade}
+
+% Logo do canto inferior direito
+%\pgfdeclareimage[height=0.7cm]{gcoejLogo}{gcoejLogo}
+\pgfdeclareimage[height=1cm]{gcoejLogo}{gcoejLogo}
+\logo{
+	\vspace*{-0.10cm}
+	%\vspace*{-0.25cm}
+	\pgfuseimage{gcoejLogo}
+	\hspace*{-0.02cm}}
+	%\hspace*{-0.05cm}}
+
 
 \begin{document}
-\section{Synchronization}
-\begin{frame}
-	\centering
-	\large Unit-V\\
-	\huge{Synchronization} 
+% Sumário
+\frame{\titlepage}
+\section[]{}
+\begin{frame}{Sumário}
+	\tableofcontents
 \end{frame}
+
+% Introducao
+\include{tex/introducao/introducao}
+
+% Metodologia
+\include{tex/metodologia/metodologia}
+
+% Resultados
+\include{tex/resultados/resultados}
+
+% Conclusao
+\include{tex/conclusao/conclusao}
+
+% Referencias
+\include{tex/referencias/referencias}
+
+% Agradecimentos
+\section{}
+\begin{frame}{Agradecimentos}
+	Agradeço a todos. 	
+\end{frame}
+
+
 \end{document}
-
-
-
-
