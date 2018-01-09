@@ -1,0 +1,73 @@
+\documentclass{beamer}
+\usepackage{fancyhdr}
+
+
+% To print page number and footer
+\setbeamertemplate{footline}[text line]{
+  \parbox{\linewidth}{\vspace*{-8pt}Mr. Harish D. Gadade\hfill\insertshortauthor\hfill\insertpagenumber}}
+\setbeamertemplate{navigation symbols}{}
+\author[Govt. Colleg of Engg, Jalgaon]{}
+% End Page number and footer
+
+% To pring Header
+%\setbeamertemplate{headline}{%
+%\leavevmode%
+ % \hbox{%
+  %  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.125ex]{palette quaternary}%
+   % \insertsectionnavigationhorizontal{\paperwidth}{}{\hskip0pt plus1filll}
+    %\end{beamercolorbox}%
+ % }
+%}
+%End Header
+
+
+% Logo do canto inferior direito
+%\pgfdeclareimage[height=0.7cm]{gcoejLogo}{gcoejLogo}
+\pgfdeclareimage[height=1cm]{gcoejLogo}{gcoejLogo}
+\logo{
+	\vspace*{8.2cm}
+	%\vspace*{-0.25cm}
+	\pgfuseimage{gcoejLogo}
+	\hspace*{-0.05cm}}
+	%\hspace*{-0.05cm}}
+
+
+
+\begin{document}   
+
+
+\section{CO451 DOS}
+\begin{frame}
+
+\begin{center}
+	\huge Remote Procedure Call\\
+\end{center}
+
+\end{frame} 
+
+\begin{frame}
+	Aim: Design RPC for remote computation where client submits an integer value to the server and server calculates factorial and returns the result to the client program..
+	\vspace{0.5cm}
+	\begin{enumerate}
+		\item Create the IDL
+		\item Create .x file e. g. fact.x
+		\item gedit Makefile.fact  i.e. edit .fact file
+		\item \texttt{open fact\char`_ client.c file}
+ 		\item \texttt{Open fact\char`_ server.c file} 
+ 		\item compile ( go on terminal and execute some commands)
+	\end{enumerate}
+	\vspace{2cm}
+\end{frame}
+
+\begin{frame}
+	Steps:\\
+	\begin{enumerate}
+	\item Create the IDE\\
+		
+	\end{enumerate}
+	
+\end{frame}
+
+\end{document}
+
+
