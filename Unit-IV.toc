@@ -1,0 +1,5 @@
+\select@language {english}
+\beamer@sectionintoc {1}{DSM}{1}{0}{1}
+\beamer@subsectionintoc {1}{1}{Architecture of DSM}{2}{0}{1}
+\beamer@subsectionintoc {1}{2}{Implementation Issues}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Granularity}{4}{0}{1}

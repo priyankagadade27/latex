@@ -42,6 +42,9 @@
 	\centering
 	\large Unit-II\\
 	\huge Message Passing\\
+	\vspace{2cm}
+	\small{Mr. Harish D. Gadade}\\
+	\small{Govt. College of Engg., Jalgaon}
 	
 \end{frame}
 
@@ -69,24 +72,24 @@
 \begin{frame}
 	\frametitle{Desirable Features of a good Message Passing System}
 	\begin{enumerate}
-		\item Simplicity
-		\item Uniform Semantics
+		\item \textit{Simplicity}
+		\item \textit{Uniform Semantics}
 		\begin{itemize}
-			\item Local Communication
-			\item Remote Communication
+			\item \textit{Local Communication}
+			\item \textit{Remote Communication}
 		\end{itemize}
-		\item Efficiency
-		\item Reliability
-		\item Correctness\\
+		\item \textit{Efficiency}
+		\item \textit{Reliability}
+		\item \textit{Correctness}\\
 			Issues related to correctness are
 		\begin{itemize}
-			\item Atomicity
-			\item Ordered Delivery
-			\item Survivability
+			\item \textit{Atomicity}
+			\item \textit{Ordered Delivery}
+			\item \textit{Survivability}
 		\end{itemize}
-		\item Flexibility
-		\item Security
-		\item Portability
+		\item \textit{Flexibility}
+		\item \textit{Security}
+		\item \textit{Portability}
 	\end{enumerate}
 \end{frame}
 
@@ -104,14 +107,16 @@
 	\framebreak
 	In designing of an IPC for MPS, the following important issues need to be considered:
 	\begin{enumerate}
-		\item Who is the sender?
-		\item who is the receiver?
-		\item Is there one receiver or many receivers?
-		\item Is the message guaranted to have been accepted by its receiver?
-		\item Does the sender need to wait for a reply?
-		\item What should be done is a catastrophic event such as a node crash of a communication link failure occurs during the course of communication?
-		\item What should be done if the receiver is not ready to accept the message:Will the message be discarded or stored in a buffer? In case of buffering,what shoul be done if athe buffer is full?
-		\item is there are several outstanding messages for a receiver, can it choose the order in which to service the outstanding messages?
+		\item \textit{Who is the sender?}
+		\item \textit{who is the receiver?}
+		\item \textit{Is there one receiver or many receivers?}
+		\item \textit{Is the message guaranted to have been accepted by its receiver?}
+		\item \textit{Does the sender need to wait for a reply?}
+		\item \textit{What should be done is a catastrophic event such as a node crash of a communication link failure occurs during the course of 
+		communication?}
+		\item \textit{What should be done if the receiver is not ready to accept the message:Will the message be discarded or stored in a buffer? In case 
+		of buffering,what shoul be done if athe buffer is full?}
+		\item \textit{Is there are several outstanding messages for a receiver, can it choose the order in which to service the outstanding messages?}
 	\end{enumerate}	
 \end{frame}
 
@@ -122,8 +127,8 @@
 	A central issue in the communication structure is the synchronization. The semantics
 	used synchronization may be broadly classified as
 	\begin{itemize}
-		\item Blocking
-		\item Non-Blocking
+		\item \textit{Blocking}
+		\item \textit{Non-Blocking}
 	\end{itemize}
 	When both the send and receive primitives of a communication between two processes use
 	blocking semantics, the communication is said to be synchronous; otherwise it is
@@ -147,10 +152,10 @@
 	capacity. Other two commonly used buffering strategies are Single-buffering and finite
 	bound or multiple message buffers. These four types of buffering strategies are;
 	\begin{itemize}
-		\item Null Buffer or No Buffering
-		\item Single Message Buffer
-		\item Unbounded-Capacity Buffer
-		\item Finite Bound or Multiple Message Buffer
+		\item \textit{Null Buffer or No Buffering}
+		\item \textit{Single Message Buffer}
+		\item \textit{Unbounded-Capacity Buffer}
+		\item \textit{Finite Bound or Multiple Message Buffer}
 	\end{itemize}
 	\vspace{1.5cm}		
 	\framebreak
@@ -167,10 +172,10 @@
 \begin{frame}
 	\frametitle{Multidatagram Messages}
 	\begin{itemize}
-		\item Datagram
-		\item MTU
-		\item Single Datagram Messages
-		\item Multi Datagram Messages
+		\item \textit{Datagram}
+		\item \textit{MTU}
+		\item \textit{Single Datagram Messages}
+		\item \textit{Multi Datagram Messages}
 	\end{itemize}
 	\vspace{4cm}
 \end{frame}
@@ -187,14 +192,14 @@
 	architectures. However, even in homogeneous systems, it is very difficult to achieve
 	this goal mainly because of two reasons:}
 	\begin{enumerate}
-		\item An absolute pointer value loses
-		\item Different program objects occupy varying amount of storage space.
+		\item \textit{An absolute pointer value loses}
+		\item \textit{Different program objects occupy varying amount of storage space.}
 	\end{enumerate}
 	Due to above mentioned problem encoding and decoding is done.\\
 	One of the following two representations may be used for encoding and decoding of a message data.
 	\begin{enumerate}
-		\item In tagged representation
-		\item In Untagged representation
+		\item \textit{In tagged representation}
+		\item \textit{In Untagged representation}
 	\end{enumerate}
 \end{frame}
 
@@ -207,8 +212,8 @@
 	addressing.
 	\vspace{0.5cm}
 	\begin{itemize}
-		\item Explicit Addressing
-		\item Implicit Addressing
+		\item \textit{Explicit Addressing}
+		\item \textit{Implicit Addressing}
 	\end{itemize}
 	\vspace{5cm}
 \end{frame}
@@ -221,9 +226,9 @@
 	partial failure such as node crash or a communication link failure. Therefore, during
 	interprocess communication, such failures may lead the following problems:
 	\begin{enumerate}
-		\item Loss of Request Message
-		\item Loss of Response Message
-		\item Unsuccessful Execution of the Request
+		\item \textit{Loss of Request Message}
+		\item \textit{Loss of Response Message}
+		\item \textit{Unsuccessful Execution of the Request}
 	\end{enumerate}	
 	\framebreak
 	\begin{figure}
@@ -250,9 +255,9 @@
 	machine's kernel.\\Based on the above idea, a fourway message reliable IPC protocol
 	for client-server between two processes works as follows:
 	\begin{enumerate}
-		\item Four-Message Reliable IPC Protocol
-		\item Three-Message Reliable IPC Protocol
-		\item Two-Message Reliable IPC Protocol
+		\item \textit{Four-Message Reliable IPC Protocol}
+		\item \textit{Three-Message Reliable IPC Protocol}
+		\item \textit{Two-Message Reliable IPC Protocol}
 	\end{enumerate}		
 	\begin{figure}
 		\centering
@@ -324,22 +329,22 @@
 	Depending on single or multiple senders and receivers, the following are the three 
 	types of group communications;
 	\begin{enumerate}
-		\item One-to-Many
-		\item Many-to-One
-		\item Many-to-Many
+		\item \textit{One-to-Many}
+		\item \textit{Many-to-One}
+		\item \textit{Many-to-Many}
 	\end{enumerate}	
 	\vspace{4cm}
 	\framebreak
 	1. One-to-Many
 	\begin{itemize}
-				\item Group Management
-				\item Group Addressing
-				\item Message Delivery to Receiver Process
-				\item Buffered and Unbuffered Multicast
-				\item Send-to-All and Bulletin-Board Semantics
-				\item Flexible Reliability in Multicast Communication
-				\item Atomic Multicast
-				\item Group Communication Primitives
+				\item \textit{Group Management}
+				\item \textit{Group Addressing}
+				\item \textit{Message Delivery to Receiver Process}
+				\item \textit{Buffered and Unbuffered Multicast}
+				\item \textit{Send-to-All and Bulletin-Board Semantics}
+				\item \textit{Flexible Reliability in Multicast Communication}
+				\item \textit{Atomic Multicast}
+				\item \textit{Group Communication Primitives}
 		\end{itemize}
 		\vspace{2cm}
 \end{frame}
