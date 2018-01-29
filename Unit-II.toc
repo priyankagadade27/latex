@@ -10,4 +10,4 @@
 \beamer@subsectionintoc {1}{8}{Process Addressing}{12}{0}{1}
 \beamer@subsectionintoc {1}{9}{Failure Handling}{13}{0}{1}
 \beamer@subsubsectionintoc {1}{9}{1}{Idem-potency}{22}{0}{1}
-\beamer@subsectionintoc {1}{10}{Group Communication}{24}{0}{1}
+\beamer@subsectionintoc {1}{10}{Group Communication}{25}{0}{1}
