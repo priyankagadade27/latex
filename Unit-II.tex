@@ -130,10 +130,15 @@
 		\item \textit{Blocking}
 		\item \textit{Non-Blocking}
 	\end{itemize}
+	An important issue in non-blocking receive primitive is how the receiving process knows that message is arrived in the message buffer.
+	\begin{enumerate}
+		\item Polling
+		\item Interrupt
+	\end{enumerate}
 	When both the send and receive primitives of a communication between two processes use
 	blocking semantics, the communication is said to be synchronous; otherwise it is
 	asynchronous.
-	\vspace{2cm}
+	
 	\framebreak
 	\begin{figure}
 		\centering
