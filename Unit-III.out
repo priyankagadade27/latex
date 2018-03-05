@@ -2,14 +2,13 @@
 \BOOKMARK [3][]{Outline0.0.2.3}{RPC Model}{}% 2
 \BOOKMARK [3][]{Outline0.0.3.5}{Transparency of RPC}{}% 3
 \BOOKMARK [3][]{Outline0.0.4.6}{Implementation of RPC}{}% 4
-\BOOKMARK [3][]{Outline0.0.5.8}{Stub Generation}{}% 5
-\BOOKMARK [3][]{Outline0.0.6.9}{RPC Messages}{}% 6
-\BOOKMARK [3][]{Outline0.0.7.11}{Marshaling Arguments and Results}{}% 7
-\BOOKMARK [3][]{Outline0.0.8.12}{Server Management}{}% 8
-\BOOKMARK [3][]{Outline0.0.9.17}{Parameter-Passing Semantics}{}% 9
-\BOOKMARK [3][]{Outline0.0.10.18}{Call Semantics}{}% 10
-\BOOKMARK [3][]{Outline0.0.11.20}{Communication Protocols}{}% 11
-\BOOKMARK [3][]{Outline0.0.12.24}{Complicated RPCs}{}% 12
-\BOOKMARK [3][]{Outline0.0.13.25}{Client-Server Binding}{}% 13
-\BOOKMARK [3][]{Outline0.0.14.34}{RPC in Heterogeneous Environment}{}% 14
-\BOOKMARK [3][]{Outline0.0.15.35}{Lightweight RPC}{}% 15
+\BOOKMARK [3][]{Outline0.0.5.8}{RPC Messages}{}% 5
+\BOOKMARK [3][]{Outline0.0.6.10}{Marshaling Arguments and Results}{}% 6
+\BOOKMARK [3][]{Outline0.0.7.11}{Server Management}{}% 7
+\BOOKMARK [3][]{Outline0.0.8.16}{Parameter-Passing Semantics}{}% 8
+\BOOKMARK [3][]{Outline0.0.9.17}{Call Semantics}{}% 9
+\BOOKMARK [3][]{Outline0.0.10.19}{Communication Protocols}{}% 10
+\BOOKMARK [3][]{Outline0.0.11.23}{Complicated RPCs}{}% 11
+\BOOKMARK [3][]{Outline0.0.12.24}{Client-Server Binding}{}% 12
+\BOOKMARK [3][]{Outline0.0.13.33}{RPC in Heterogeneous Environment}{}% 13
+\BOOKMARK [3][]{Outline0.0.14.34}{Lightweight RPC}{}% 14
